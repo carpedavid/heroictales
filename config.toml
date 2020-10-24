@@ -19,7 +19,7 @@ enableRobotsTXT = true
   site_logo = "images/logo_new_h@2x.png"
   description = "A genre-neutral role playing game of heroic problem solving."
   facebook = ""
-  twitter = "https://twitter.com/carpedavid"
+  twitter = ""
   instagram = ""
   youtube = ""
   github = ""
@@ -36,3 +36,8 @@ enableRobotsTXT = true
   body_classes = "garamond black"
   post_content_classes = "garamond black"
   custom_css = ["css/custom.css"]
+
+  [taxonomies]
+    tag = "tags"
+    category = "categories"
+    genre = "genres"
