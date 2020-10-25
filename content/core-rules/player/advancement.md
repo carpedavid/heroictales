@@ -1,7 +1,7 @@
 ---
 title: "Advancement"
 date: 2020-10-23T20:43:11-04:00
-draft: true
+draft: false
 tags: []
 featured_image: ""
 description: "Over time, a team will become better at what they do."

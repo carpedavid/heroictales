@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
 date: 2020-10-23T20:31:42-04:00
-draft: true
+draft: false
 tags: []
 featured_image: ""
 description: ""

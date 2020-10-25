@@ -1,7 +1,7 @@
 ---
 title: "Results"
 date: 2020-10-23T20:39:24-04:00
-draft: true
+draft: false
 tags: []
 featured_image: ""
 description: ""

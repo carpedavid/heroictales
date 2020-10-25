@@ -1,7 +1,7 @@
 ---
 title: "Challenges"
 date: 2020-10-23T20:36:30-04:00
-draft: true
+draft: false
 tags: []
 featured_image: ""
 description: "Challenges are the core of the Heroic Tales experience; they’re what turn a session from improvisational theater into a game. "
