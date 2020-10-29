@@ -15,8 +15,8 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "images/icon_new_solo@2x.png"
-  site_logo = "images/logo_new_h@2x.png"
+  favicon = "/images/icon_new_solo@2x.png"
+  site_logo = "/images/logo_new_h@2x.png"
   description = "A genre-neutral role playing game of heroic problem solving."
   facebook = ""
   twitter = ""
