@@ -1,11 +1,10 @@
 ---
-title: "About"
-date: 2020-10-23T20:59:53-04:00
+title: "Welcome"
+date: 2020-10-28T20:18:31-04:00
 draft: false
 tags: []
 featured_image: ""
 description: "Heroic Tales is a genre-neutral role playing game of heroic problem solving"
-menu: "main"
 ---
 
 Heroic Tales is a genre-neutral role playing game of heroic problem solving. It utilizes a rules-lite, narrative, team-based, scene-level, dice pool challenge resolution system.
@@ -17,9 +16,9 @@ Heroic Tales is a genre-neutral role playing game of heroic problem solving. It 
 * **Dice pool** — players roll a set of six-sided dice (d6) in order to determine the results of their choices.
 
 ## Influences
-Heroic Tales is inspired by a number of other role-playing game systems. The concept of scene-level resolution is taken from [Wushu](http://danielbayn.com/wushu/) by [Daniel Bayn](http://danielbayn.com/). An inspirational rules-light system is [Lasers & Feelings](http://www.onesevendesign.com/laserfeelings/) by [John Harper](http://www.onesevendesign.com/). Advantage and disadvantage during dice roles comes from Dungeons & Dragons 5th Edition and Skill Challenges come from 4th Edition.
+Heroic Tales is inspired by a number of other role-playing game systems. The concept of scene-level resolution is taken from [Wushu](http://danielbayn.com/wushu/) by Daniel Bayn. An inspirational rules-light system is [Lasers & Feelings](http://www.onesevendesign.com/laserfeelings/) by John Harper. Advantage and disadvantage during dice roles comes from Dungeons & Dragons 5th Edition and Skill Challenges come from 4th Edition.
 
 Every game has potential to enhance your gaming experience, from the most popular role-playing game in the world, to the smallest of independent systems.
 
 ## Always Free
-The Heroic Tales Core Rules will always be freely available, redistributable, and reusable. The Core Rules, along with resources for players, GMs, and designers are available at https://heroictalesrpg.com.
+The Heroic Tales Core Rules will always be freely available, redistributable, and reusable. The Core Rules, along with resources for players, GMs, and designers are available right here at [https://heroictalesrpg.com](https://heroictalesrpg.com).
