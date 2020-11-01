@@ -31,10 +31,30 @@ Each player should then record the following about their character:
 * **Personality** — what motivates you? What makes you sad? What are your hopes and fears? How do you interact with other people? With animals? With intelligent cyclones?
 
 ### Traits
-The following *traits* will factor into play when your team is tackling a challenge, the core mechanic of Heroic Tales. By weaving details of your character’s *skills*, *powers*, and *interests* into the description of your actions, you can influence the size of your dice pool.
+The following *traits* factor into play when your team is tackling a *challenge*, the core mechanic of Heroic Tales. By weaving details of your character’s *skills*, *powers*, and *interests* into the description of your actions, you can influence the size of your dice pool.
 
-**Skills** — list three talents that you have spent time practicing, but which don’t generally factor into combat. For example: calligraphy, rock climbing, alchemy, ballroom dancing, or calculus.
+Each trait can contribute one to three dice to your roll. How many dice each contributes depends on the *scope* of the trait. Broadly defined traits only contribute one die to the roll. For example, acrobatics can be used in many different situations, but a character’s aptitude in any specific situation is limited. By contrast, tightrope walking contributes three dice, because it requires a high degree of training, but is applicable in very limited situations.
+
+By default, each trait contributes two dice to a roll. The maximum number of dice that you can add to any roll is three, regardless of how many traits you are able to incorporate into your character’s actions. A well-rounded character isn’t exceptional at everything, so aim for a mix of narrow, standard, and broadly scoped traits.
+
+**Skills** — start with three talents that you have spent time practicing, but which don’t generally factor into combat. For example: calligraphy, rock climbing, alchemy, ballroom dancing, or calculus.
 
 **Powers** — list three abilities that you possess innately or which you have acquired through other means, such as magic rings, radioactive spiders, or gamma-ray bursts. These are often abilities that can be used in combat. For example: super-strength, archery, jujutsu, necromancy, fencing, or invisibility.
 
 **Interests** — list three subjects that you know more about than most other people. For example: particle physics, occult languages, the economy of dwarven nations, or xenobiology.
+
+### Boons
+In addition to *traits*, every character starts with a special ability, called a *boon* that can be used once per challenge. Boons are narrowly defined abilities that grant one of the following benefits in specific situations:
+
+1. Grant yourself advantage on your next roll.
+2. Convert one failure to one success on your next roll.
+3. Substitute an inapplicable narrowly defined trait for an applicable broadly defined trait on your next roll.
+4. Grant each of your teammates the ability to ignore one failure on their next roll.
+5. Grant each of your teammates advantage on their next roll in exchange for taking disadvantage on your next roll.
+6. Grant one of your teammates the ability to use one of your traits as part of their action.
+
+For example, a ninja might have the following *ninjutsu* boon: The Art of Giving Back. 
+
+*Catching a spear is easy. Catching it without getting hurt is hard. Catching it without getting hurt while also spinning it around and stabbing it back into your attacker is impossible without a whole lot of practice. As it turns out, you really like to practice.*
+
+*In a challenge involving hand to hand combat, you can choose to change one failure into a success. Once you use this ability, you can’t use it again for the rest of the challenge.*

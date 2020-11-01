@@ -10,9 +10,9 @@ author: "David Garrett"
 cover_image: ""
 tagline: "Core rules for the genre-neutral role playing game of heroic problem solving"
 types: [Rulebook]
-version: "P4.0.0"
-pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/Heroic%20Tales%20Core%20Rules%20P4.0.0.pdf"
-md_link: "https://heroictales.s3.us-east-1.amazonaws.com/Heroic%20Tales%20Core%20Rules%20P4.0.0.md"
+version: "P4.1.0"
+pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/Heroic%20Tales%20Core%20Rules%20P4.1.0.pdf"
+md_link: "https://heroictales.s3.us-east-1.amazonaws.com/Heroic%20Tales%20Core%20Rules%20P4.1.0.md"
 ---
 
 Heroic Tales is a genre-neutral role playing game of heroic problem solving. It utilizes a rules-lite, narrative, team-based, scene-level, dice pool challenge resolution system.

@@ -40,14 +40,13 @@
 
       <p class="tracked"></p>
         {{ with .Params.pdf_link }}
-
           <a href="{{ . }}">
-            <img srcset="/images/download_pdf.png 1x, /images/download_pdf@2x.png 2x" src="/images/download_pdf.png" alt="Download PDF"/>
+            <i class="fas fa-file-pdf fa-3x gold"></i> Download PDF
           </a>
         {{ end }}
         {{ with .Params.md_link }}
           <a href="{{ . }}">
-            <img srcset="/images/download_md.png 1x, /images/download_md@2x.png 2x" src="/images/download_md.png" alt="Download Markdown"/>
+            <i class="fab fa-markdown fa-3x gold"></i> Download Markdown
           </a>
         {{ end }}
       </p>
