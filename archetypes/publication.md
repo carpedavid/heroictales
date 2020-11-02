@@ -8,11 +8,14 @@ summary: ""
 author: ""
 genres: []
 author: ""
-cover_image: ""
 types: []
 version: ""
 pdf_link: ""
 md_link: ""
 cs_link: ""
+
+resources:
+-   name: pub_logo
+    src: ""
 ---
 

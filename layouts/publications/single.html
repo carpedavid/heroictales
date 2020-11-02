@@ -47,16 +47,11 @@
       {{ end }}
     </header>
 
-    {{ with .Params.cover_image }}
-    <div class="">
-      <img src="{{ . }}"/>
+    {{ with .Resources.GetMatch "pub_logo" }}
+    <div class="pr4-l w-two-thirds-l">
+      <img src="{{ .RelPermalink }}"/>
     </div>
     {{ end }}
-
-    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
-      {{- .Content -}}
-      {{- partial "tags.html" . -}}
-    </div>
 
     <aside class="w-30-l mt6-l">
       {{ if isset .Params "pdf_link" | or .Params "md_link" | or .Params "cs_link" }}
@@ -81,6 +76,14 @@
           </ul>
         </div>
       {{ end }}
+    </aside>
+
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
+      {{- .Content -}}
+      {{- partial "tags.html" . -}}
+    </div>
+
+    <aside class="w-30-l mt6-l">
       {{- partial "menu-contextual.html" . -}}
     </aside>
 
