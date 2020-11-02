@@ -6,8 +6,8 @@ theme = "ananke"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 6
-googleAnalytics = ""
 enableRobotsTXT = true
+Copyright = "David Garrett"
 
 [sitemap]
   changefreq = "monthly"
@@ -19,7 +19,7 @@ enableRobotsTXT = true
   site_logo = "/images/logo_new_h@2x.png"
   description = "A genre-neutral role playing game of heroic problem solving."
   facebook = ""
-  twitter = ""
+  twitter = "https://twitter.com/HeroicTalesRPG"
   instagram = ""
   youtube = ""
   github = ""
@@ -31,7 +31,8 @@ enableRobotsTXT = true
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-blue"
-  featured_image = ""
+  cover_dimming_class = "bg-black-30"
+  featured_image = "/images/hero_core_rules.jpg"
   recent_posts_number = 2
   body_classes = "garamond black"
   post_content_classes = "garamond black"
