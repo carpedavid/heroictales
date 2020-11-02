@@ -3,13 +3,24 @@ title: "Crafting Challenges"
 date: 2020-10-28T20:05:49-04:00
 draft: false
 tags: [gm's companion]
-featured_image: ""
 description: "As a GM, you get the opportunity to craft the *challenges* that the players will attempt to overcome"
+summary: "As a GM, you get the opportunity to craft the *challenges* that the players will attempt to overcome. A challenge can be anything from fighting a colossal, tentacled, city-devouring monster to developing the antidote for a magical zombie-creating poison."
+weight: 7
 ---
 
 As a GM, you get the opportunity to craft the *challenges* that the players will attempt to overcome. A challenge can be anything from fighting a colossal, tentacled, city-devouring monster to developing the antidote for a magical zombie-creating poison. It could involve persuading the Grand Duchess to sponsor your voyage to the Islands East of Forever or it might involve helping an old, friendly vampire rescue his beloved spider-cat, Whiskers, from the Haunted Mines of Terror and Dread.
 
 As a result, creating an engaging challenge is more of an art than a science. It’s important to understand the expectations that each of the players brings to the group and to create a chance for each of them to contribute. Try to minimize creating challenges that highlight just one character’s abilities — they can be interesting on occasion, but can become tedious if overused.
+
+To create a compelling challenge, you’ll want to think through the following items:
+
+* **Objective** — what is the team trying to accomplish?
+* **Elements** — where and when does the challenge take place?
+* **Obstacles, Timeframe, and Constraints** — what’s standing in the way of success, and what could cause them to fail?
+* **Milestones** — as the characters make progress toward their goal, how does the scene change?
+* **Complications** — when a player suffers a setback, what does it look like?
+* **Success and Failure** — what are the results of completing a challenge, both positive and negative?
+* **Inertia** — how challenging is the challenge?
 
 ## Objective
 A shared understanding of the primary objective of a challenge is crucial. What is the team trying to accomplish and why? This needs to be clearly communicated between the GM and players in order for the story to flow cleanly.
@@ -21,10 +32,12 @@ Are there people present? What are their names and personalities? Are there crea
 
 If you’re comfortable coming up with the elements of the scene on the fly, don’t hesitate to do so. If you need time to prepare and think things through, then create a bullet-point list of things to remember.
 
-## Obstacles and Constraints
-What’s going to make the challenge a challenge? Something should be standing in the team’s way (sometimes literally) in order for there to be a chance of failure. There may be multiple obstacles. Fighting the giant demon on a slender bridge above a pit of bubbling lava is much more cinematic than fighting it in the middle of a featureless cavern.
+## Obstacles, Timeframe, and Constraints
+First, what’s going to make the challenge a challenge? Something should be standing in the team’s way (sometimes literally) in order for there to be a chance of failure. There may be multiple obstacles. Fighting the giant demon on a slender bridge above a pit of bubbling lava is much more cinematic than fighting it in the middle of a featureless cavern.
 
-Additionally, what are the boundaries of the challenge? Does the magical antidote need to be developed by sunrise? Does the team need to sneak into the rival gang-leader’s lair without being caught?
+Second, how long does the team have to successfully complete the challenge. Tasks that are, if not trivial, then straightforward when not constrained can become an extreme test of teamwork when a tight deadline with serious consequences looms. For example, developing a magical potion that cures the crown princess’ petrified court might be important, but if the team can take their time, it will feel much less urgent if they can take their time than if they have to complete it by the next dawn.
+
+Finally, what are the other boundaries of the challenge?  Does the team need to sneak into the rival gang-leader’s lair without being spotted? Do they need to navigate the minotaur’s maze without attracting its attention? Creative use of constraints can elevate a mundane challenge into one the players will remember.
 
 ## Milestones
 As the scene unfolds, how does it change? What happens? An engaging challenge should be dynamic and react to the actions of the characters. The best practice is to have the scene meaningfully change every three rolls or so. This prevents the action from becoming stale, and it prevents the players from running out of interesting things to do.

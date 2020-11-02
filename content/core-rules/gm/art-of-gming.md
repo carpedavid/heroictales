@@ -3,8 +3,9 @@ title: "The Gentle Art of GMing"
 date: 2020-10-23T20:43:11-04:00
 draft: false
 tags: [gm's companion]
-featured_image: ""
 description: "So you want to be a Game Master..."
+summary: "So you’ve decided to take on the role of Game Master. It can be a challenging role filled with prep work and world building and book keeping, but it is also an extremely rewarding role filled with nearly limitless potential for creativity."
+weight: 6
 ---
 
 So you’ve decided to take on the role of Game Master. It can be a challenging role filled with prep work and world building and book keeping, but it is also an extremely rewarding role filled with nearly limitless potential for creativity. Like any skill, your GMing will improve over time, but there are a few simple principles that will help you and your players tell a great story together.

@@ -3,8 +3,9 @@ title: "Challenges"
 date: 2020-10-23T20:36:30-04:00
 draft: false
 tags: [player's guide]
-featured_image: ""
 description: "Challenges are the core of the Heroic Tales experience; they’re what turn a session from improvisational theater into a game"
+summary: "*Challenges* are the core of the Heroic Tales experience; they’re what turn a session from improvisational theater into a game. A challenge is any obstacle that the team has to face collectively. Capturing the dastardly villain, stopping the runaway train, investigating the crime scene, or inventing the antidote to a mystical poison are all examples of challenges."
+weight: 3
 ---
 
 *Challenges* are the core of the Heroic Tales experience; they’re what turn a session from improvisational theater into a game. A challenge is any obstacle that the team has to face collectively. Capturing the dastardly villain, stopping the runaway train, investigating the crime scene, or inventing the antidote to a mystical poison are all examples of challenges. 

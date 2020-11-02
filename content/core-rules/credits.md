@@ -2,9 +2,9 @@
 title: "Credits & Legal"
 date: 2020-10-28T20:39:28-04:00
 draft: false
-tags: []
-featured_image: ""
-description: ""
+description: "Credits, versioning, and legal stuff"
+summary: "Heroic Tales is designed and authored by David Garrett with the support of innumerable others."
+weight: 9
 ---
 
 * Heroic Tales designed and authored by [David Garrett](https://aboutdave.info)

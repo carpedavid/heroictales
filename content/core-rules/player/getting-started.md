@@ -3,8 +3,9 @@ title: "Getting Started"
 date: 2020-10-23T20:31:42-04:00
 draft: false
 tags: [player's guide]
-featured_image: ""
 description: "What you need to get started with Heroic Tales"
+summary: "Heroic Tales is designed for a group of one to six players plus one GM. As a group, you'll first create your team, and then your characters."
+weight: 2
 ---
 
 Heroic Tales is designed for a group of one to six players plus one GM. More than six players is a big group and, especially with the collaborative nature of storytelling in this system, can result in people feeling left out or unheard.

@@ -3,8 +3,9 @@ title: "Advancement"
 date: 2020-10-23T20:43:11-04:00
 draft: false
 tags: [player's guide]
-featured_image: ""
 description: "As a team works together, they will get better at what they do"
+summary: "Over time, a team will become better at what they do. Individual characters will learn and grow, but the synergy between team members will also improve."
+weight: 5
 ---
 
 Over time, a team will become better at what they do. Individual characters will learn and grow, but the synergy between team members will also improve. To reflect the growth of the team, the GM may periodically increase the team’s *power level* by one.

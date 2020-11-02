@@ -3,8 +3,9 @@ title: "Results"
 date: 2020-10-23T20:39:24-04:00
 draft: false
 tags: [player's guide]
-featured_image: ""
 description: "What happens after you roll the dice"
+summary: "Based upon the results of the team’s roll, the GM advances the scene. Each net success the team generates reduces the *inertia* of the *challenge* by one, but each player that ends up with more failures than successes costs the team one point of *momentum*."
+weight: 4
 ---
 
 Based upon the results of the team’s roll, the GM advances the scene. Each net success the team generates reduces the *inertia* of the *challenge* by one.

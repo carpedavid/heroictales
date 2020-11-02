@@ -20,7 +20,7 @@ Copyright = "David Garrett"
   description = "A genre-neutral role playing game of heroic problem solving."
   facebook = ""
   twitter = "https://twitter.com/HeroicTalesRPG"
-  instagram = ""
+  instagram = "https://www.instagram.com/heroictalesrpg/"
   youtube = ""
   github = ""
   gitlab = ""
@@ -38,8 +38,8 @@ Copyright = "David Garrett"
   post_content_classes = "garamond black"
   custom_css = ["css/custom.css"]
 
-  [taxonomies]
-    tag = "tags"
-    category = "categories"
-    genre = "genres"
-    type = "types"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  genre = "genres"
+  type = "types"
