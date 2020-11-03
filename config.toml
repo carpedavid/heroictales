@@ -17,6 +17,7 @@ Copyright = "David Garrett"
 [params]
   favicon = "/images/icon_new_solo@2x.png"
   site_logo = "/images/logo_new_h@2x.png"
+  site_logo_sm = "/images/logo_new_h@0.5x.png"
   description = "A genre-neutral role playing game of heroic problem solving."
   facebook = ""
   twitter = "https://twitter.com/HeroicTalesRPG"
