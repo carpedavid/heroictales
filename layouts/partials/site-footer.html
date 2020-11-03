@@ -12,33 +12,42 @@
               {{ end }}
             </a>
           </p>
-          <p class="f4 fw4 white dn dib-ns pv2 ph3">Made with ♥ in Cleveland</p>
-
-        </div>
-      </div>
-      <div class="fl w-100 w-third-ns pa2">
-        <div class="pv4">
-          <p class="f4 fw4 white dn dib-ns pv2 ph3">
-            <strong>Player's Guide</strong>
-            <br><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/welcome/">Welcome</a>
-            <br><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/getting-started/">Getting Started</a>
-            <br><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/challenges/">Challenges</a>
-            <br><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/results/">Results</a>
-            <br><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/advancement/">Advancement</a>
+          <p class="f4 fw4 white dn dib-ns ph3">Made with ♥ in Cleveland</p>
+          <p>
+            <a class="f4 fw4 white dn dib-ns ph3 hover-white no-underline" href="https://aboutdave.info" >
+              &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+            </a>
           </p>
         </div>
       </div>
       <div class="fl w-100 w-third-ns pa2">
         <div class="pv4">
-          <p class="f4 fw4 white dn dib-ns pv2 ph3">{{ partial "social-follow.html" . }}</p>
+          <p class="f4 fw4 white dn dib-ns pt2 mb0"><strong>Player's Guide</strong></p>
+          <ul class="list pl0">
+              <li><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/welcome/">Welcome</a></li>
+              <li><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/getting-started/">Getting Started</a></li>
+              <li><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/challenges/">Challenges</a></li>
+              <li><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/results/">Results</a></li>
+              <li><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/advancement/">Advancement</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="fl w-100 w-third-ns pa2">
+        <div class="pv4">
+          <p class="f4 fw4 white dn dib-ns pt2 mb0"><strong>Site Info</strong></p>
+          <ul class="list pl0">
+            <li><a class="f4 fw2 hover-white no-underline white dib" href="/about">About</a></li>
+            <li><a class="f4 fw2 hover-white no-underline white dib" href="/blog">Blog</a></li>
+            <li><a class="f4 fw2 hover-white no-underline white dib" href="/legal">Legal</a></li>
+            <li><a class="f4 fw2 hover-white no-underline white dib" href="/publications">Publications</a></li>
+            <li class="pv4">{{ partial "social-follow.html" . }}</li>
+          </ul>
         </div>
       </div>
     </div>
     <div class="cf ph2-ns">
       <div class="fl w-100 pa2">
-        <a class="f4 fw4 hover-white no-underline white dn dib-ns pv2 ph3" href="https://aboutdave.info" >
-          &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
-        </a>
+        
       </div>
     </div>
   </div>
