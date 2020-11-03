@@ -1,11 +1,46 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
-    &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
-  </a>
-    <div>{{ partial "social-follow.html" . }}</div>
+  <div class="mw9 center ph3-ns">
+    <div class="cf ph2-ns">
+      <div class="fl w-100 w-third-ns pa2">
+        <div class="pv4">
+          <p class="f4 fw4 white dn dib-ns pt2 ph3">
+            <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white dib">
+              {{ with .Site.Params.site_logo }}
+                <img src="{{ . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
+              {{ else }}
+                {{ .Site.Title }}
+              {{ end }}
+            </a>
+          </p>
+          <p class="f4 fw4 white dn dib-ns pv2 ph3">Made with ♥ in Cleveland</p>
+
+        </div>
+      </div>
+      <div class="fl w-100 w-third-ns pa2">
+        <div class="pv4">
+          <p class="f4 fw4 white dn dib-ns pv2 ph3">
+            <strong>Player's Guide</strong>
+            <br><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/welcome/">Welcome</a>
+            <br><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/getting-started/">Getting Started</a>
+            <br><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/challenges/">Challenges</a>
+            <br><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/results/">Results</a>
+            <br><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/advancement/">Advancement</a>
+          </p>
+        </div>
+      </div>
+      <div class="fl w-100 w-third-ns pa2">
+        <div class="pv4">
+          <p class="f4 fw4 white dn dib-ns pv2 ph3">{{ partial "social-follow.html" . }}</p>
+        </div>
+      </div>
+    </div>
+    <div class="cf ph2-ns">
+      <div class="fl w-100 pa2">
+        <a class="f4 fw4 hover-white no-underline white dn dib-ns pv2 ph3" href="https://aboutdave.info" >
+          &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+        </a>
+      </div>
+    </div>
   </div>
-  <div class="flex justify-between">
-    <p class="f4 fw4 white-70 dn dib-ns pv2 ph3">Made with ♥ in Cleveland</p>
-  </div>
+
 </footer>
