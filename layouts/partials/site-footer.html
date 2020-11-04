@@ -1,7 +1,7 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="mw9 center ph3-ns">
-    <div class="cf ph2-ns">
-      <div class="fl w-100 w-third-ns pa2">
+    <section class="cf">
+      <div class="fl w-100 w-50-m w-25-l pa2">
         <div>
           <p class="f4 fw4 white pt2">
             <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white dib">
@@ -20,7 +20,7 @@
           </p>
         </div>
       </div>
-      <div class="fl w-100 w-third-ns pa2">
+      <div class="fl w-100 w-50-m w-25-l pa2">
         <div>
           <p class="f4 fw4 white pt2 mb0"><strong>Player's Guide</strong></p>
           <ul class="list pl0">
@@ -32,7 +32,17 @@
           </ul>
         </div>
       </div>
-      <div class="fl w-100 w-third-ns pa2">
+      <div class="fl w-100 w-50-m w-25-l pa2">
+        <div>
+          <p class="f4 fw4 white pt2 mb0"><strong>GM's Companion</strong></p>
+          <ul class="list pl0">
+              <li><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/gm/art-of-gming/">Art of GMing</a></li>
+              <li><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/gm/crafting-challenges/">Crafting Challenges</a></li>
+              <li><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/gm/reuse-this-system/">Resuse This</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="fl w-100 w-50-m w-25-l pa2">
         <div>
           <p class="f4 fw4 white pt2 mb0"><strong>Site Info</strong></p>
           <ul class="list pl0">
@@ -44,12 +54,7 @@
           </ul>
         </div>
       </div>
-    </div>
-    <div class="cf ph2-ns">
-      <div class="fl w-100 pa2">
-        
-      </div>
-    </div>
+    </section>
   </div>
 
 </footer>

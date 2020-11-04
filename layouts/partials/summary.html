@@ -2,7 +2,7 @@
   <div class="bg-white mb3 pa4 gray overflow-hidden">
     {{ $permalink := .Permalink }}
     {{ with .Resources.GetMatch "pub_logo" }}
-      <div class="pr4-l">
+      <div class="shadow-4">
         <a class="link black dim" href="{{ $permalink }}"><img src="{{ .Permalink }}"/></a>
       </div>
     {{ end }}
