@@ -8,7 +8,7 @@ summary: "You are a ninja, the secret weapon that the warlords known as daimyō 
 genres: [espionage, fantasy]
 author: "David Garrett"
 types: [storybook]
-version: "Playtest 1.0.0"
+version: "Development"
 pdf_link: ""
 md_link: ""
 cs_link: ""

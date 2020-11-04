@@ -3,12 +3,12 @@ title: "Power and Glory"
 date: 2020-11-02T15:46:08-04:00
 draft: true
 tags: []
-description: "HEROIC TALES of high fantasy set in a ruined world."
+description: "Heroic Tales of high fantasy set in a ruined world."
 summary: "Greetings, adventurer! On behalf of the leadership and staff of the Perilous Peregrine Questing Co., allow me to extend a hearty welcome and congratulate you on your decision to affiliate yourself with the finest adventuring guild on Gilea."
 genres: [fantasy]
 author: "David Garrett"
 types: [campaign setting]
-version: "Playtest 1.0.0"
+version: "Development"
 pdf_link: ""
 md_link: ""
 cs_link: ""
