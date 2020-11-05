@@ -6,16 +6,16 @@
   <div id="sharing" class="mt3">
 
     {{ $facebook_href := printf "https://www.facebook.com/sharer.php?u=%s" $url }}
-    <a href="{{ $facebook_href }}" class="facebook no-underline" aria-label="share on Facebook">
-      {{ partialCached "svg/facebook.svg" (dict "size" $icon_size) $icon_size }}
+    <a href="{{ $facebook_href }}" class="f4 link dim" aria-label="share on Facebook">
+      <i class="fab fa-facebook-square fa-lg black"></i>
     </a>
 
     {{ $twitter_href := printf "https://twitter.com/share?url=%s&text=%s" $url $title }}
     {{ with .Site.Social.twitter }}
       {{ $twitter_href = printf "%s&via=%s" $twitter_href . }}
     {{ end }}
-    <a href="{{ $twitter_href }}" class="twitter no-underline" aria-label="share on Twitter">
-      {{ partialCached "svg/twitter.svg" (dict "size" $icon_size) $icon_size }}
+    <a href="{{ $twitter_href }}" class="f4 link dim" aria-label="share on Twitter">
+      <i class="fab fa-twitter-square fa-lg black"></i>
     </a>
 
   </div>

@@ -55,22 +55,22 @@
 
     <aside class="w-30-l">
       {{ if or (isset .Params "pdf_link") (isset .Params "md_link") (isset .Params "cs_link") }}
-        <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+        <div class="bg-light-gray pa3 nested-copy-line-height nested-links">
           <h2>Downloads</h2>
-          <ul>
+          <ul class="fa-ul">
             {{ with .Params.pdf_link }}
             <li>
-              <a href="{{ . }}" class="f4 db link dim"><i class="fas fa-file-pdf"></i> PDF</a>
+              <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-pdf"></i></span>PDF</a>
             </li>
           {{ end }}
           {{ with .Params.md_link }}
             <li>
-              <a href="{{ . }}" class="f4 db link dim"><i class="fab fa-markdown"></i> Markdown</a>
+              <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fab fa-markdown"></i></span>Markdown</a>
             </li>
           {{ end }}
           {{ with .Params.cs_link }}
             <li>
-              <a href="{{ . }}" class="f4 db link dim"><i class="fas fa-file-alt"></i> Character Sheet</a>
+              <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-alt"></i></span>Character Sheet</a>
             </li>
           {{ end }}
           </ul>
