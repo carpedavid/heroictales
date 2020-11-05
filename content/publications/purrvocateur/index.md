@@ -9,9 +9,6 @@ genres: [espionage]
 author: "David Garrett"
 types: [storybook]
 version: "Concept"
-pdf_link: ""
-md_link: ""
-cs_link: ""
 
 resources:
 -   name: pub_logo

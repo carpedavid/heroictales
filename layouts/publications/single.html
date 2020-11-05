@@ -54,7 +54,7 @@
     {{ end }}
 
     <aside class="w-30-l">
-      {{ if isset .Params "pdf_link" | or .Params "md_link" | or .Params "cs_link" }}
+      {{ if or (isset .Params "pdf_link") (isset .Params "md_link") (isset .Params "cs_link") }}
         <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
           <h2>Downloads</h2>
           <ul>

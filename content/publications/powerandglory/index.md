@@ -9,9 +9,6 @@ genres: [fantasy]
 author: "David Garrett"
 types: [campaign setting]
 version: "Development"
-pdf_link: ""
-md_link: ""
-cs_link: ""
 
 resources:
 -   name: pub_logo
