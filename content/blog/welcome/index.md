@@ -6,6 +6,7 @@ tags: []
 featured_image: ""
 description: ""
 summary: "Welcome to the Heroic Tales website! I didn't set out to write a new system, but I'm pretty happy with how it turned out."
+author: "David Garrett"
 ---
 
 Welcome to Heroic Tales!
@@ -19,7 +20,3 @@ Once I started, it unlocked a tsunami of creative ideas that had been bottled up
 I’ve intentionally designed Heroic Tales to be modular and extensible. The core mechanics are pretty solid, but it exists to be hacked, tweaked, flavored, and reimplemented in a variety of ways. To encourage reuse, I’m releasing it under a Creative Commons license, which means that both GMs and designers can take as little or as much as they want from the [Core Rules](/core-rules/) (and any supplements I create).
 
 Hopefully, this genre-neutral, rules light, narrative system of heroic problem solving will give you as much joy to play as it gave me to design.
-
-David Garrett
-
-November, 2020

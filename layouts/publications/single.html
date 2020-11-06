@@ -6,20 +6,12 @@
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b tracked">
-        {{with .CurrentSection.Title }}
-          {{. | upper }}
-        {{end}}
-      </aside>
-
-      {{ partial "social-share.html" . }}
-      
       <h1 class="f1 mt3 mb1">
         {{- .Title -}}
       </h1>
 
       {{ with .Params.description }}
-      <p class="tracked">
+      <p class="f4 tracked">
         <em>
           {{ . }}
         </em>
@@ -27,7 +19,7 @@
       {{ end }}
 
       {{ with .Params.author }}
-      <p class="tracked">
+      <p class="f4">
           By <strong>
           {{ if reflect.IsSlice . }}
               {{ delimit . ", " | markdownify }}
@@ -39,7 +31,7 @@
       {{ end }}
 
       {{ with .Params.version }}
-      <p class="tracked">
+      <p class="f4">
         Version <strong>
           {{ . }}
         </strong>
@@ -55,7 +47,7 @@
 
     <aside class="w-30-l">
       {{ if or (isset .Params "pdf_link") (isset .Params "md_link") (isset .Params "cs_link") }}
-        <div class="bg-light-gray pa3 nested-copy-line-height nested-links">
+        <div class="bg-light-gray pa3 mb4 nested-copy-line-height nested-links">
           <h2>Downloads</h2>
           <ul class="fa-ul">
             {{ with .Params.pdf_link }}
@@ -76,6 +68,10 @@
           </ul>
         </div>
       {{ end }}
+      <div class="ph3 nested-copy-line-height nested-links">
+        <h2 class="mt0">Share</h2>
+        {{ partial "social-share.html" . }}
+      </div>
     </aside>
 
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
