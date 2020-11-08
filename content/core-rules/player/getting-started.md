@@ -49,7 +49,7 @@ In addition to *traits*, every character starts with a special ability, called a
 
 1. Grant yourself advantage on your next roll.
 2. Convert one failure to one success on your next roll.
-3. Substitute an inapplicable narrowly defined trait for an applicable broadly defined trait on your next roll.
+3. Re-roll any neutral results on one roll.
 4. Grant each of your teammates the ability to ignore one failure on their next roll.
 5. Grant each of your teammates advantage on their next roll in exchange for taking disadvantage on your next roll.
 6. Grant one of your teammates the ability to use one of your traits as part of their action.

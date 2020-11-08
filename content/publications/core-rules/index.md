@@ -8,9 +8,9 @@ summary: "Heroic Tales is a genre-neutral role playing game of heroic problem so
 author: "David Garrett"
 genres: []
 types: [Rules]                                                                                                                
-version: "Playtest 4.1.0"
-pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%20P4.1.0.pdf"
-md_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%20P4.1.0.md"
+version: "Playtest 4.2.0"
+pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%20P4.2.0.pdf"
+md_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%20P4.2.0.md"
 cs_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Character%20Sheet.pdf"
 weight: 1
 

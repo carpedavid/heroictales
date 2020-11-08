@@ -3,14 +3,27 @@
     <section class="cf ph3 ph3-l pv3 pv3-l f4 center measure-wide lh-copy mid-gray">
       {{- .Content -}}
     </section>
-    <h1 class="flex-ns flex-wrap justify-around f1">Recent Updates</h1>
-    <section class="flex-ns flex-wrap justify-around">
-      {{ range .Paginator.Pages }}
-        <div class="relative w-100 w-30-l mb2 bg-white">
-          {{- partial "summary.html" . -}}
-        </div>
-      {{ end }}
-    </section>
-    {{- template "_internal/pagination.html" . -}}
+  </article>
+  <article class="cf">
+    <div class="fl w-100 w-30-ns tc">
+      <h1 class="f1">Recent Publications</h1>
+      <section class="flex-ns flex-wrap justify-around">
+        {{ range first 1 (where site.RegularPages "Section" "publications") }}
+          <div class="">
+            {{- partial "summary.html" . -}}
+          </div>
+        {{ end }}
+      </section>
+    </div>
+    <div class="fl w-100 w-70-ns tc">
+      <h1 class="f1">Recent Updates</h1>
+      <section class="flex-ns flex-wrap justify-around">
+        {{ range first 2 (where site.RegularPages "Section" "blog") }}
+          <div class="w-50-l">
+            {{- partial "summary.html" . -}}
+          </div>
+        {{ end }}
+      </section>
+    </div>
   </article>
 {{ end }}
