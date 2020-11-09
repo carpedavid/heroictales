@@ -8,7 +8,7 @@ summary: ""
 author: ""
 genres: []
 author: ""
-types: []
+audiences: []
 version: ""
 pdf_link: ""
 md_link: ""

@@ -5,10 +5,11 @@ draft: true
 tags: []
 description: "Heroic Tales of high fantasy set in a ruined world."
 summary: "Greetings, adventurer! On behalf of the leadership and staff of the Perilous Peregrine Questing Co., allow me to extend a hearty welcome and congratulate you on your decision to affiliate yourself with the finest adventuring guild on Gilea."
-genres: [fantasy]
+genres: [Fantasy]
 author: "David Garrett"
-types: [campaign setting]
+types: [Campaign Setting]
 version: "Development"
+audiences: [Teens, Adults]
 
 resources:
 -   name: pub_logo
