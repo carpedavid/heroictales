@@ -1,3 +1,8 @@
+{{ with .Param "email" }}
+<a href="{{ . }}" target="_blank" class="link-transition link dib z-999 ph1 pt3 pt0-l mr1" title="Email link" rel="noopener" aria-label="send an email——Opens in a new window">
+  <i class="fas fa-envelope-square fa-2x white"></i>
+</a>
+{{ end }}
 {{ with .Param "facebook" }}
 <a href="{{ . }}" target="_blank" class="link-transition link dib z-999 ph1 pt3 pt0-l mr1" title="Facebook link" rel="noopener" aria-label="follow on Facebook——Opens in a new window">
   <i class="fab fa-facebook-square fa-2x white"></i>
@@ -13,4 +18,8 @@
   <i class="fab fa-instagram-square fa-2x white"></i>
 </a>
 {{ end }}
-
+{{ with .Param "reddit" }}
+<a href="{{ . }}" target="_blank" class="link-transition link dib z-999 ph1 pt3 pt0-l mr1" title="Reddit link" rel="noopener" aria-label="follow on Reddit—-Opens in a new window">
+  <i class="fab fa-reddit-square fa-2x white"></i>
+</a>
+{{ end }}
