@@ -1,5 +1,5 @@
 ---
-title: "Reuse This System"
+title: "Powered by Heroic Tales"
 date: 2020-10-28T20:07:03-04:00
 draft: false
 tags: [gm's companion]
@@ -14,4 +14,7 @@ To do so, add the following text wherever you put your own copyright:
 
 > This work is based on Heroic Tales, designed and authored by David Garrett and licensed for use under the Creative Commons Attribution 4.0 license.
 
-All the text has to be the same size as the rest of your copyright section — that’s one of the license requirements.
+All the text has to be the same size as the rest of your copyright section — that’s one of the license requirements. If you abide by these requirements, you are welcome to utilize the Powered By Heroic Tales icon, available in .png and .svg formats.
+
+* [PNG Download](/images/icon_poweredby.png)
+* [SVG Download](/images/icon_poweredby.svg)
