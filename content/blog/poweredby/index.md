@@ -1,7 +1,7 @@
 ---
 title: "Powered By Heroic Tales"
 date: 2020-11-10T20:39:43-05:00
-draft: true
+draft: false
 tags: []
 featured_image: ""
 description: ""
