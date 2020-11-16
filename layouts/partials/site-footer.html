@@ -22,7 +22,7 @@
       </div>
       <div class="fl w-100 w-50-m w-25-l pa2">
         <div>
-          <p class="f4 fw4 white pt2 mb0"><strong>Player's Guide</strong></p>
+          <h2 class="white pt2 mb0">Player's Guide</h2>
           <ul class="list pl0">
               <li><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/welcome/">Welcome</a></li>
               <li><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/player/getting-started/">Getting Started</a></li>
@@ -34,7 +34,7 @@
       </div>
       <div class="fl w-100 w-50-m w-25-l pa2">
         <div>
-          <p class="f4 fw4 white pt2 mb0"><strong>GM's Companion</strong></p>
+          <h2 class="white pt2 mb0">GM's Companion</h2>
           <ul class="list pl0">
               <li><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/gm/art-of-gming/">Art of GMing</a></li>
               <li><a class="f4 fw2 hover-white no-underline white dib" href="/core-rules/gm/crafting-challenges/">Crafting Challenges</a></li>
@@ -44,7 +44,7 @@
       </div>
       <div class="fl w-100 w-50-m w-25-l pa2">
         <div>
-          <p class="f4 fw4 white pt2 mb0"><strong>Site Info</strong></p>
+          <h2 class="white pt2 mb0">Site Info</h2>
           <ul class="list pl0">
             <li><a class="f4 fw2 hover-white no-underline white dib" href="/about">About</a></li>
             <li><a class="f4 fw2 hover-white no-underline white dib" href="/blog">Blog</a></li>
@@ -52,6 +52,7 @@
             <li><a class="f4 fw2 hover-white no-underline white dib" href="/publications">Publications</a></li>
             <li class="pv4">{{ partial "social-follow.html" . }}</li>
           </ul>
+          {{ partial "mailchimp/newsletter.html" . }}
         </div>
       </div>
     </section>
