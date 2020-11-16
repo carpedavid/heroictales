@@ -1,7 +1,7 @@
 ---
 title: "Community Updates"
 date: 2020-11-12T10:06:02-05:00
-draft: true
+draft: false
 tags: []
 featured_image: ""
 description: ""
