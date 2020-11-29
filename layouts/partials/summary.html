@@ -12,6 +12,9 @@
       </a>
     </h1>
     <div class="tl nested-links f4 lh-copy nested-copy-line-height">
+      {{ with .Params.Version }}
+        <p>Version: {{ . }}</p>
+      {{ end }}
       {{ .Summary  }}
     </div>
   </div>

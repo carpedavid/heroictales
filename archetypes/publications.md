@@ -5,17 +5,17 @@ draft: true
 tags: []
 description: ""
 summary: ""
-author: ""
+author: "David Garrett"
 genres: []
-author: ""
+types: []
 audiences: []
-version: ""
+version: "Concept"
 pdf_link: ""
 md_link: ""
 cs_link: ""
 
 resources:
 -   name: pub_logo
-    src: ""
+    src: "web logo.png"
 ---
 
