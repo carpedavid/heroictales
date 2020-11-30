@@ -1,18 +1,15 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "What's Up Danger?"
+date: 2020-11-29T20:44:20-05:00
 draft: true
 tags: []
+description: ""
 summary: ""
 author: "David Garrett"
 genres: [Fantasy, Horror, Scifi, Superhero, Thriller, Western]
-format: "Adventure, Campaign Setting, Storybook"
-audiences: [Kids, Teens, Adults]
+format: Storybook
+audiences: [Teens, Adults]
 version: "Concept"
-html_link: ""
-pdf_link: ""
-md_link: ""
-cs_link: ""
 
 resources:
 -   name: pub_logo

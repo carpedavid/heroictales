@@ -4,10 +4,10 @@ date: 2020-11-28T20:27:36-05:00
 draft: true
 tags: []
 description: "A Fantastic Adventure of steam trains, dino-rustlers, and the aftermath of a diamond rush."
-summary: "Five years ago, Diamond Gulch was a prosperous boom town. Prospectors of every stripe, from miners to mages, slowly picked the diamonds clean from the mines beneath the town. Professional gamblers filled the casinos and professional drunks filled the saloons. Five years ago, everyone was making money."
+summary: "A Fantastic Adventure of steam trains, dino-rustlers, and the aftermath of a diamond rush."
 author: "David Garrett"
-genres: [Fantasy]
-types: [Adventure]
+genres: [Fantasy, Western]
+format: "Adventure"
 audiences: [Teen, Adult]
 version: "Development"
 

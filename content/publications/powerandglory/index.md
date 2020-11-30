@@ -3,11 +3,10 @@ title: "Power and Glory"
 date: 2020-11-02T15:46:08-04:00
 draft: true
 tags: []
-description: "Fantastic Tales of adventure and conquest set in a magical, ruined world."
-summary: "Greetings, adventurer! On behalf of the leadership and staff of the Perilous Peregrine Questing Co., allow me to extend a hearty welcome and congratulate you on your decision to affiliate yourself with the finest adventuring guild on Gilea."
+summary: "Fantastic Tales of adventure and conquest set in a magical, ruined world."
 genres: [Fantasy]
 author: "David Garrett"
-types: [Campaign Setting]
+format: "Campaign Setting"
 version: "Development"
 audiences: [Teens, Adults]
 

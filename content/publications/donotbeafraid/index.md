@@ -3,11 +3,10 @@ title: "Do Not Be Afraid"
 date: 2020-11-28T20:44:45-05:00
 draft: true
 tags: []
-description: "Terrifying Tales of angelic horror."
-summary: ""
+summary: "Terrifying Tales of angelic horror."
 author: "David Garrett"
 genres: []
-types: []
+format: "Storybook"
 audiences: [Adult]
 version: "Concept"
 

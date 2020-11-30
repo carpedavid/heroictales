@@ -35,6 +35,5 @@ Copyright = "David Garrett"
 
 [taxonomies]
   tag = "tags"
-  type = "types"
   genre = "genres"
   audience = "audiences"

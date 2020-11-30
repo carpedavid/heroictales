@@ -3,15 +3,15 @@
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
       {{- .Content -}}
     </section>
-    <section class="flex-ns flex-wrap justify-around mt5">
-      {{ range (.Paginate (.Pages.GroupBy "Weight" "desc")).PageGroups }}
+    {{ range .Pages.GroupByParam "Format" }}
+      <h1 class="tl f2 near-black">{{ .Key }}</h1>
+      <section class="flex-ns flex-wrap justify-around mt5">
         {{ range sort .Pages.ByTitle }}
           <div class="relative w-100 w-30-l mb4 bg-white">
             {{- partial "summary.html" . -}}
           </div>
         {{ end }}
-      {{ end }}
-    </section>
-    {{- template "_internal/pagination.html" . -}}
+      </section>
+    {{ end }}
   </article>
 {{ end }}
