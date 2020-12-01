@@ -4,13 +4,13 @@ date: 2020-10-28T20:39:28-04:00
 draft: false
 description: "Credits, versioning, and legal stuff"
 summary: "Heroic Tales is designed and authored by David Garrett with the support of innumerable others."
-weight: 9
+weight: 10
 ---
 
 * Heroic Tales designed and authored by [David Garrett](https://aboutdave.info)
-* Number crunching by [u/mythic_kirby](https://www.reddit.com/user/mythic_kirby/)
+* Number crunching and invaluable feedback by [u/mythic_kirby](https://www.reddit.com/user/mythic_kirby/)
+* Playtesting, additional game design, and eternally supportive friendship by Matt Friedlander, Rob Hays, David Kuchler, and Scott Perry
 * Special thanks to the redditors in [r/rpg](https://www.reddit.com/r/rpg), [r/RPGcreation](https://www.reddit.com/r/RPGcreation), and [r/RPGdesign](https://www.reddit.com/r/RPGdesign)
-* Playtested by Matt Friedlander, Rob Hays, David Kuchler, and Scott Perry
 * This website uses the Fight to the Finish font by Nate Piekos for the title and headings. The body text is set in Garamond Premier.
 
 ## Versioning

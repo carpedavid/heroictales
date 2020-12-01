@@ -5,32 +5,36 @@ draft: false
 tags: [player's guide]
 description: "Challenges are the core of the Heroic Tales experience; they’re what turn a session from improvisational theater into a game"
 summary: "*Challenges* are the core of the Heroic Tales experience; they’re what turn a session from improvisational theater into a game. A challenge is any obstacle that the team has to face collectively. Capturing the dastardly villain, stopping the runaway train, investigating the crime scene, or inventing the antidote to a mystical poison are all examples of challenges."
-weight: 3
+weight: 4
 ---
 
 *Challenges* are the core of the Heroic Tales experience; they’re what turn a session from improvisational theater into a game. A challenge is any obstacle that the team has to face collectively. Capturing the dastardly villain, stopping the runaway train, investigating the crime scene, or inventing the antidote to a mystical poison are all examples of challenges. 
 
 Challenges may be extremely brief, or they may span days, months, or years of game time — they last exactly as long as whatever makes sense for the story and are adjudicated by the GM. Challenges can be initiated by either the players or the GM. The difficulty of a challenge is known as its *inertia*, and is determined by the GM.
 
-As a rule of thumb, a team of any size will, on average, exhaust its *momentum* after seven to nine rolls of the dice. Therefore, an easy challenge should last, on average, one to three rolls, a normal challenge four to six rolls, and a hard challenge, which strains the limits of the team’s momentum, seven to nine.
-
 The players will usually know the inertia of the challenge they’re facing. However, depending on the nature and tone of the story, it might be fun for the GM to keep the inertia secret until some sort of milestone has been reached within the scene.
 
 ## Mechanics of Play
-At the beginning of a challenge, the GM will set the scene by describing the information to which the characters would be privy. Then, as a group, the players describe how their characters are overcoming the challenge. The mechanics of Heroic Tales assume that the characters are able to work in a coordinated fashion: whether that be real-time via whatever mechanism is appropriate to the setting and the challenge, like a quantum-entangled communicator, text message, telepathy, or carrier pigeons; or via a plan created and communicated in advance.
+For ease of play, challenges are divided into *rounds* that represent a unit of effort from a team. Like challenges themselves, rounds don’t represent a fixed unit of time, but rather adapt to the nature of the challenge. Each round begins the same way, though — with the GM setting the scene by describing all of the elements that the characters are able to observe: the who, what, where, and when.
 
-If the characters are able to communicate within the constraints of the scene, players may freely pass the narrative to each other and the GM as they describe their actions. The GM will provide the non-player character side of any dialogue, descriptions of changes in the environment due to character actions, and so forth. Individual actions may take as long as needed to serve the story and the collective approach.
+Next, the players narrate their character’s approach to overcoming the challenge and advancing the story. The mechanics of Heroic Tales assume that the characters are able to work in a coordinated fashion: whether that be real-time via whatever mechanism is appropriate to the setting and the challenge, like a quantum-entangled communicator, text message, telepathy, or carrier pigeons; or via a plan created and communicated in advance.
 
-Once the players are done with their description, they roll their dice simultaneously. Each player receives a pool of six-sided dice equal to half the team’s *power level*, rounding up, plus one die for each *trait* they tie into the description, to a maximum of three additional dice.
+If the characters are able to communicate within the constraints of the scene, players may freely pass the narrative to each other and the GM as they describe their actions. The GM will provide the non-player character side of any dialogue, descriptions of changes in the environment due to character actions, and so forth. Individual actions may take as long as needed to serve the story.
+
+When the team is satisfied with their contributions, they collectively roll their dice to end the round and then determine the outcome: how much progress they made in overcoming the inertia of the challenge and how much *momentum* they spent along the way.
+
+Each player rolls a set of dice equal to half the team’s *power level* (rounded up) plus the dice from the traits they used (max of three) plus two dice if they gain *advantage* (or minus two dice if they suffer from *disadvantage*).
+
+All fours, fives, and sixes count as *successes*; threes are *neutral*; and ones and twos count as *failures*. The result of the roll equals the total number of successes minus the total number of failures for the team.
+
+As a rule of thumb, a team of any size will, on average, exhaust its momentum after seven to nine rounds. Therefore, an easy challenge will last, on average, one to three rounds, a normal challenge four to six rounds, and a hard challenge, which strains the limits of the team’s momentum, seven to nine.
 
 Occasionally, an individual player will struggle to come up with a meaningful set of actions due to how the narrative is progressing. Perhaps they are playing a combat focused character while the team is negotiating with the Grand Duchess. That’s ok. In those circumstances, the player still gets to roll — they’re part of the team, and sometimes just showing up makes a difference. The statistics behind the dice rolls ensure that a larger pool of dice is always better, so there’s no benefit in abstaining from a roll.
 
-After the dice are rolled, the team tallies the results. All fours, fives, and sixes count as *successes*; threes are *neutral*; and ones and twos count as *failures*. The result of the roll equals the total number of successes minus the total number of failures across the team.
-
 ## Advantage & Disadvantage
-If a character benefits from some sort of *condition* favorable to them, such as being fluent in Betelgeuseian when negotiating an interplanetary peace treaty or having pyroclastic blast powers when a giant paper mâché dragon awakens and threatens the town, then they may gain *advantage* on their roll — they add two dice to their pool. The GM will alert you when these conditions apply.
+If a character benefits from some sort of condition favorable to them, such as being fluent in Betelgeuseian when negotiating an interplanetary peace treaty or having pyroclastic blast powers when a giant paper mâché dragon awakens and threatens the town, then they may gain advantage on their roll, and add two dice to their pool. The GM will alert you when these conditions apply.
 
-If the condition is causing some sort of impairment (e.g. poisoned, hypnotized, quantum-locked, handcuffed, or trapped in the web of a giant spider), then the player suffers *disadvantage* on their roll — they subtract two from their pool. A player always gets to roll one die, even if suffering from disadvantage would reduce their pool to zero.
+If, instead, a character suffers from some sort of impairment (e.g. poisoned, hypnotized, quantum-locked, handcuffed, or trapped in the web of a giant spider), then the player suffers disadvantage on their roll — they subtract two from their pool. A player always gets to roll one die, even if suffering from disadvantage would reduce their pool to zero.
 
 If a character is subject to multiple conditions that grant advantage or disadvantage, they do not combine. Advantage and disadvantage do, though, cancel each other out, so a player whose character has two conditions causing advantage but one condition causing disadvantage still gets advantage on their roll.
 

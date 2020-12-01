@@ -5,7 +5,7 @@ draft: false
 tags: [gm's companion]
 description: "So you want to be a Game Master..."
 summary: "So you’ve decided to take on the role of Game Master. It can be a challenging role filled with prep work and world building and book keeping, but it is also an extremely rewarding role filled with nearly limitless potential for creativity."
-weight: 6
+weight: 7
 ---
 
 So you’ve decided to take on the role of Game Master. It can be a challenging role filled with prep work and world building and book keeping, but it is also an extremely rewarding role filled with nearly limitless potential for creativity. Like any skill, your GMing will improve over time, but there are a few simple principles that will help you and your players tell a great story together.
@@ -17,6 +17,8 @@ Some GMs create incredibly detailed worlds filled with extremely engaging non-pl
 As the GM, you have the ultimate say over what happens within the world, outside of the characters, so you have to make space for the players to make their own decisions, and for the characters to meaningfully affect the story and the world around them.
 
 **Principle 2** — The player characters are always the heroes (or anti-heroes, depending on the plot) of the story. They are the protagonists. Your non-player characters exist to support them, guide them, challenge them, and antagonize them, but they should never be the stars.
+
+It is understandable, especially when you put a lot of time into developing engaging challenges, to want to show them off, but challenges exist to be overcome by the heroes of the story. Sometimes this happens after a thrilling game of cat and mouse topped off with a satisfying villainous monologue. Other times, the players resolve the challenge in one roll and render your careful preparation moot. This is ok. Just file all the cool ideas away for another challenge at a later time and be happy that everyone is having fun.
 
 Also, as the people playing the heroes, you should always give the players the benefit of the doubt. They should be able to have their characters do pretty much whatever they want, as long as everyone feels that it fits the tone and atmosphere of the story.
 
@@ -35,4 +37,3 @@ You might be tempted to tell the player what their character does while under th
 As a result, it is extremely important to make sure that everyone is having fun and feeling safe. Even in a horror game, for example, players need to feel safe in order to let their guard down enough to feel the fun of a good scare.
 
 It is a good idea to have a discussion as part of the first session, where the players create their team and characters, about what topics the players are and are not comfortable with and the intended tone and atmosphere of the story. For example, a Game of Thrones-style game is going to feel completely different and require different mental preparation by players than a game based on Robin Hood and his Merry Men.
-

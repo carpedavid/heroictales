@@ -8,10 +8,10 @@ author: "David Garrett"
 genres: []
 format: "Core Rules"
 audiences: [Kids, Teens, Adults]                                                    
-version: "Playtest 4.2.0"
+version: "1.0.0"
 html_link: "/core-rules/"
-pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%20P4.2.0.pdf"
-md_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%20P4.2.0.md"
+pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.0.pdf"
+md_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.0.md"
 cs_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Character%20Sheet.pdf"
 weight: 1
 

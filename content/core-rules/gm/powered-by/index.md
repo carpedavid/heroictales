@@ -5,7 +5,7 @@ draft: false
 tags: [gm's companion]
 description: "Heroic Tales is designed to be reused, remixed, and republished"
 summary: "Heroic Tales is designed to be reused, remixed, and republished. It is published under the Creative Commons Attribution 4.0 license, which gives you the right to use as many or as few of the concepts and words as you’d like in your own games, settings, adventures, and other content, as long as you make a clear statement that your material is based on this material."
-weight: 8
+weight: 9
 ---
 
 Heroic Tales is designed to be reused, remixed, and republished. It is published under the Creative Commons Attribution 4.0 license, which gives you the right to use as many or as few of the concepts and words as you’d like in your own games, settings, adventures, and other content, as long as you make a clear statement that your material is based on this material.

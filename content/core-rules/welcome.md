@@ -4,7 +4,7 @@ date: 2020-10-28T20:18:31-04:00
 draft: false
 description: "Heroic Tales is a genre-neutral role playing game of heroic problem solving"
 summary: "Heroic Tales is a genre-neutral role playing game of heroic problem solving. It utilizes a rules-lite, narrative, team-based, scene-level, dice pool challenge resolution system."
-weight: 1
+weight: 2
 ---
 
 Heroic Tales is a genre-neutral role playing game of heroic problem solving. It utilizes a rules-lite, narrative, team-based, scene-level, dice pool challenge resolution system.

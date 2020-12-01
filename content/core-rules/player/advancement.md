@@ -5,26 +5,24 @@ draft: false
 tags: [player's guide]
 description: "As a team works together, they will get better at what they do"
 summary: "Over time, a team will become better at what they do. Individual characters will learn and grow, but the synergy between team members will also improve."
-weight: 5
+weight: 6
 ---
 
 Over time, a team will become better at what they do. Individual characters will learn and grow, but the synergy between team members will also improve. To reflect the growth of the team, the GM may periodically increase the team’s *power level* by one.
 
-A team’s power level can go to a maximum of ten. The number of six-sided dice in a player’s pool is equal to one half the team’s power level, rounding up, plus one die for each *trait* they work into the description of their action, to a maximum of three additional dice. This results in the pool size increasing at every odd level.
+A team’s power level can go to a maximum of ten. The base of a player’s dice pool equals half the team’s power level (rounding up), which means that it increases in size at every odd level.
 
-Additionally, at each new level, a player may add a new *skill*, *power*, or *interest* to their character in order to reflect their character’s growth. When the team reaches fifth level, each character can select an additional boon. They can select a third and final boon at tenth level.
+Additionally, at each new level, a player may choose to add a new beginner *trait* to their character or increase the level of an existing trait (from beginner to intermediate and from intermediate to advanced). When the team reaches fifth level, each character can select an additional *boon*. They can select a third and final boon at tenth level.
 
-| Power Level | Dice Pool | Player Notes               |
-| ----------- | --------- | -------------------------- |
-| 1           | 1         | --                         |
-| 2           | 1         | Add one trait              |
-| 3           | 2         | Add one trait              |
-| 4           | 2         | Add one trait              |
-| 5           | 3         | Add one trait and one boon |
-| 6           | 3         | Add one trait              |
-| 7           | 4         | Add one trait              |
-| 8           | 4         | Add one trait              |
-| 9           | 5         | Add one trait              |
-| 10          | 5         | Add one trait and one boon |
-
-> Extra Crunchy Mode: at the GM’s discretion, a player may also increase the “rank” of a trait. For example, a ninja who has Stabbing People as a power might decide to increase that power to Stabbing People 2, granting two dice when the power is used in a challenge instead of the normal one. Ranks are capped at three.
+| Power Level | Dice Pool | Player Notes                            |
+| ----------- | --------- | --------------------------------------- |
+| 1           | 1         | --                                      |
+| 2           | 1         | Add or upgrade one trait.               |
+| 3           | 2         | Add or upgrade one trait.               |
+| 4           | 2         | Add or upgrade one trait.               |
+| 5           | 3         | Add or upgrade one trait. Add one boon. |
+| 6           | 3         | Add or upgrade one trait.               |
+| 7           | 4         | Add or upgrade one trait.               |
+| 8           | 4         | Add or upgrade one trait.               |
+| 9           | 5         | Add or upgrade one trait.               |
+| 10          | 5         | Add or upgrade one trait. Add one boon. |
