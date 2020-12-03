@@ -60,9 +60,14 @@
           <ul class="fa-ul">
             {{ with .Params.pdf_link }}
               <li>
-                <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-pdf"></i></span>PDF</a>
+                <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-pdf"></i></span>PDF (Letter)</a>
               </li>
             {{ end }}
+            {{ with .Params.mobile_link }}
+            <li>
+              <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-mobile-alt"></i></span>PDF (A5/mobile)</a>
+            </li>
+          {{ end }}
             {{ with .Params.md_link }}
               <li>
                 <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fab fa-markdown"></i></span>Markdown</a>
