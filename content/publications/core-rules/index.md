@@ -14,7 +14,8 @@ pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Ta
 mobile_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%20M1.0.0.pdf"
 md_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.0.md"
 cs_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Character%20Sheet.pdf"
-weight: 1
+pdf_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.0%20ES.pdf"
+md_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.0%20ES.md"
 
 resources:
 -   name: pub_logo
