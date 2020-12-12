@@ -8,14 +8,13 @@ author: "David Garrett"
 genres: []
 format: "Core Rules"
 audiences: [Kids, Teens, Adults]                                                    
-version: "1.0.0"
+version: "1.0.1"
 html_link: "/core-rules/"
-pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.0.pdf"
-mobile_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%20M1.0.0.pdf"
-md_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.0.md"
+pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1.pdf"
+md_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1.md"
 cs_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Character%20Sheet.pdf"
-pdf_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.0%20ES.pdf"
-md_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.0%20ES.md"
+pdf_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1%20ES.pdf"
+md_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1%20ES.md"
 
 resources:
 -   name: pub_logo
