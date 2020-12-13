@@ -10,3 +10,7 @@ author: "David Garrett"
 ---
 
 Thanks to the tireless efforts of community member Guillermo Gini, the Spanish translation of the Core Rules has been updated to 1.0.1. Primarily, this reflects a few wording changes to increase rule clarifications. At the same time, I've tweaked the the layout for the English translation to make it easier to read on screen.
+
+You can find them both at the link below:
+
+[Heroic Tales Core Rules](/publications/core-rules)
