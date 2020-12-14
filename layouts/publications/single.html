@@ -70,6 +70,11 @@
                 <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fab fa-markdown"></i></span>Markdown (English)</a>
               </li>
             {{ end }}
+            {{ with .Params.cs_link }}
+            <li>
+              <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-alt"></i></span>Character Sheet (English)</a>
+            </li>
+          {{ end }}
             {{ with .Params.pdf_link_es }}
             <li>
               <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-pdf"></i></span>PDF (Español)</a>
@@ -80,11 +85,11 @@
             <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fab fa-markdown"></i></span>Markdown (Español)</a>
           </li>
         {{ end }}
-            {{ with .Params.cs_link }}
-              <li>
-                <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-alt"></i></span>Character Sheet</a>
-              </li>
-            {{ end }}
+        {{ with .Params.cs_link_es }}
+        <li>
+          <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-alt"></i></span>Character Sheet (Español)</a>
+        </li>
+      {{ end }}
           </ul>
         </div>
       {{ end }}
