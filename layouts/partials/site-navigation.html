@@ -1,26 +1,39 @@
 <nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l justify-between items-center center">
-    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white dib">
-      {{ with .Site.Params.site_logo }}
-        <img src="{{ . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
-      {{ else }}
-        {{ .Site.Title }}
-      {{ end }}
-    </a>
-    <div class="flex-l items-center">
-      {{ partial "i18nlist.html" . }}
-      {{ if .Site.Menus.main }}
-        <ul class="pl0 mr3">
-          {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white" href="{{ .URL }}" title="{{ .Name }} page">
-              {{ .Name }}
-            </a>
-          </li>
+  <div class="mw9 center ph3-ns">
+    <div class="cf ph2-ns">
+      <div class="fl w-100 w-50-ns pa2">
+        <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white dib">
+          {{ with .Site.Params.site_logo }}
+            <img src="{{ . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
+          {{ else }}
+            {{ .Site.Title }}
           {{ end }}
-        </ul>
-      {{ end }}
-      {{ partialCached "social-follow.html" . }}
+        </a>
+      </div>
+      <div class="fl w-100 w-50-ns pa2 tr">
+        {{ if .Site.Menus.main }}
+          <ul class="pl0">
+            {{ range .Site.Menus.main }}
+            <li class="list f5 f4-ns fw4 dib pl3">
+              <a class="hover-white no-underline white" href="{{ .URL }}" title="{{ .Name }} page">
+                {{ .Name }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  <div class="mw9 center ph3-ns">
+    <div class="cf ph2-ns">
+      <div class="fl w-100 w-third-ns pa2">
+      </div>
+      <div class="fl w-100 w-third-ns pa2">
+      </div>
+      <div class="fl w-100 w-third-ns pa2">
+        <div id="search"></div>
+      </div>
     </div>
   </div>
 </nav>
