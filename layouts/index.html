@@ -9,7 +9,7 @@
       <h1 class="f1">Recent Publications</h1>
       <section class="flex-ns flex-wrap justify-around">
         {{ range first 1 (where site.RegularPages "Section" "publications") }}
-          <div class="">
+          <div>
             {{- partial "summary.html" . -}}
           </div>
         {{ end }}
@@ -18,8 +18,8 @@
     <div class="fl w-100 w-60-ns tc">
       <h1 class="f1">Recent Updates</h1>
       <section class="flex-ns flex-wrap justify-around">
-        {{ range first 2 (where site.RegularPages "Section" "blog") }}
-          <div class="w-50-l">
+        {{ range first 1 (where site.RegularPages "Section" "blog") }}
+          <div>
             {{- partial "summary.html" . -}}
           </div>
         {{ end }}
