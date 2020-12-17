@@ -15,8 +15,6 @@ resources:
     src: "web_logo.png"
 ---
 
----
-
 You are a special agent who works for the secretive counter-terrorism organization known as the Feline Investigation Service (FIS). Together with your fellow agents, you travel the world stopping dastardly villains from carrying out their diabolical plans.
 
 *SETTING: The secret island lair of the mad doctor, Madame Docteur Catorze.*

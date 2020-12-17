@@ -6,23 +6,9 @@
   {{ $section := .Site.GetPage "section" .Section }}
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
     <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b tracked">
-        {{with .CurrentSection.Title }}
-          {{. | upper }}
-        {{end}}
-      </aside>
-      
       <h1 class="f1 mt3 mb1">
         {{- .Title -}}
       </h1>
-
-      {{ with .Params.description }}
-      <p class="f4 tracked">
-        <em>
-          {{ . }}
-        </em>
-      </p>
-      {{ end }}
 
       {{ with .Params.author }}
       <p class="f4">
@@ -38,7 +24,7 @@
 
       {{ with .Params.version }}
       <p class="f4">
-        Version <strong>
+        Version: <strong>
           {{ . }}
         </strong>
       </p>
@@ -61,7 +47,6 @@
         <h2 class="">Share</h2>
         {{ partial "social-share.html" . }}
       </div>
-      {{- partial "menu-contextual.html" . -}}
     </aside>
 
   </article>
