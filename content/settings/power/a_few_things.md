@@ -1,7 +1,7 @@
 ---
 title: "A Few Things To Know"
 date: 2020-12-17T15:35:03-05:00
-draft: true
+draft: false
 tags: []
 summary: "Here are a few things that your character, as a native to the fantastic world of Gilea, would know."
 author: "David Garrett"
