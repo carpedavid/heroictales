@@ -9,6 +9,7 @@ author: "David Garrett"
 
 cascade:
     featured_image: "/images/lotc_hero.png"
+    custom_css: "css/lotc.css"
 
 resources:
 -   name: pub_logo

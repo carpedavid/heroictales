@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 date: 2020-11-30T13:54:28-05:00
-draft: true
+draft: false
 tags: []
 summary: "In the Land of the Crane, shadowy ninja silently slip through the night, gathering secrets and assassinating their enemies. Mystic onmyōji struggle to keep the five elemental forces of nature in balance, and ascetic monks train in the arts of unarmed combat, so they might have the stamina necessary to spend days in meditation."
 chapter: "Welcome"

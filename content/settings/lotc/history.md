@@ -1,7 +1,7 @@
 ---
 title: "History"
 date: 2020-11-30T13:59:38-05:00
-draft: true
+draft: false
 tags: []
 summary: "Tsurukoku, the Empire of the Crane, was founded sixteen hundred years ago by Mikado Kazuhiro of the Aono clan. Since then, the Land of the Crane has flourished under the rule of the Aono dynasty."
 chapter: "Welcome"

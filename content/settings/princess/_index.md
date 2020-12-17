@@ -9,6 +9,7 @@ author: "David Garrett"
 
 cascade:
     featured_image: "/images/princess_hero.png"
+    custom_css: "css/princess.css"
 
 resources:
 -   name: pub_logo

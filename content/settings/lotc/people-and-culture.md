@@ -1,7 +1,7 @@
 ---
 title: "People and Culture"
 date: 2020-11-30T14:07:40-05:00
-draft: true
+draft: false
 tags: []
 summary: "Tsurukoku is a strictly feudal society that follows a caste system. Noble landowners, known as daimyō, act as landlords for farmers (the largest segment of the population) who produce rice, wheat and livestock."
 chapter: "Welcome"
