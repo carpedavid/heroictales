@@ -10,6 +10,8 @@ format: "Campaign Setting"
 version: "Development"
 audiences: [Teens, Adults]
 
+html_link: "/settings/power/"
+
 resources:
 -   name: pub_logo
     src: "web logo.png"

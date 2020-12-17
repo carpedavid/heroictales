@@ -8,10 +8,13 @@ author: "David Garrett"
 genres: [Fantasy]
 format: "Campaign Setting"
 audiences: [Kids, Teens, Adults]
-version: "Concept"
+version: "Development"
+
+html_link: "/settings/princess/"
 
 resources:
 -   name: pub_logo
     src: "web logo.png"
 ---
 
+You are a princess! As the daughter (or son — boys can be princesses, too) of the King and Queen, it is your job to care for your people, defend your homeland, and act as an ambassador to other kingdoms.
