@@ -9,11 +9,11 @@
         <div class="fr w-100 w-third-ns" id="search"></div>
       </div>
       <div class="tc-l pv4 pv4-l ph3 ph4-ns">
-        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 mt0 lh-title">
+        <h1 class="f2 f-subheadline-l fw2 white mb0 mt0 lh-title">
           {{ .Title | default .Site.Title }}
         </h1>
         {{ if or (isset .Params "version") (isset .Params "description") }}
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3"> 
+          <h2 class="fw1 f5 f3-l white measure-wide-l center mt3"> 
             {{ with .Params.description }}
               {{ . }}
             {{ end }}
