@@ -47,17 +47,20 @@
     </div>
 
     <aside class="w-30-l">
-      {{ if or (isset .Params "pdf_link") (isset .Params "md_link") (isset .Params "cs_link") (isset .Params "html_link")}}
+      {{ $version := .Params.version }}
+      {{ with .Params.html_link }}
+      <div class="bg-light-gray pa3 mb4 nested-copy-line-height nested-links">
+        <h2>Read Online</h2>
+        <ul class="fa-ul">
+        <li>
+          <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-code"></i></span>{{ $version }}</a>
+        </li>
+        </ul>
+      </div>
+      {{ end }}
+
+      {{ if or (isset .Params "pdf_link") (isset .Params "md_link") (isset .Params "cs_link") }}
         <div class="bg-light-gray pa3 mb4 nested-copy-line-height nested-links">
-          {{ $version := .Params.version }}
-          {{ with .Params.html_link }}
-            <h2>Read Online</h2>
-            <ul class="fa-ul">
-            <li>
-              <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-code"></i></span>{{ $version }}</a>
-            </li>
-          </ul>
-          {{ end }}
           <h2>Downloads</h2>
           <ul class="fa-ul">
             {{ with .Params.pdf_link }}
@@ -74,7 +77,14 @@
             <li>
               <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-alt"></i></span>Character Sheet (English)</a>
             </li>
-          {{ end }}
+            {{ end }}
+          </ul>
+          </div>
+      {{ end }}
+      {{ if or (isset .Params "pdf_link_es") (isset .Params "md_link_es") (isset .Params "cs_link_es")}}
+      <div class="bg-light-gray pa3 mb4 nested-copy-line-height nested-links">
+        <h2>Translations</h2>
+        <ul class="fa-ul">
             {{ with .Params.pdf_link_es }}
             <li>
               <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-pdf"></i></span>PDF (Español)</a>
@@ -84,15 +94,16 @@
           <li>
             <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fab fa-markdown"></i></span>Markdown (Español)</a>
           </li>
-        {{ end }}
-        {{ with .Params.cs_link_es }}
-        <li>
-          <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-alt"></i></span>Character Sheet (Español)</a>
-        </li>
-      {{ end }}
+          {{ end }}
+          {{ with .Params.cs_link_es }}
+          <li>
+            <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-alt"></i></span>Character Sheet (Español)</a>
+          </li>
+          {{ end }}
           </ul>
         </div>
       {{ end }}
+
       <div class="ph3 nested-copy-line-height nested-links">
         <h2 class="mt0">Share</h2>
         {{ partial "social-share.html" . }}

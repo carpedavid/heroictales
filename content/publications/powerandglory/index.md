@@ -1,7 +1,7 @@
 ---
 title: "Power and Glory"
 date: 2020-11-02T15:46:08-04:00
-draft: true
+draft: false
 tags: []
 summary: "Fantastic Tales of adventure and conquest set in a magical, ruined world."
 genres: [Fantasy]

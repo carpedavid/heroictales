@@ -8,10 +8,10 @@ author: "David Garrett"
 genres: []
 format: "Core Rules"
 audiences: [Kids, Teens, Adults]                                                    
-version: "1.0.1"
+version: "1.0.2"
 html_link: "/core-rules/"
-pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1.pdf"
-md_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1.md"
+pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.2.pdf"
+md_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.2.md"
 cs_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Character%20Sheet.pdf"
 pdf_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1%20ES.pdf"
 md_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1%20ES.md"
@@ -29,3 +29,9 @@ Heroic Tales is a genre-neutral role playing game of heroic problem solving. It 
 * **Team-based** — other systems are primarily geared toward individual character actions. Heroic Tales is explicitly team-based, and the group will succeed or fail as a team.
 * **Scene-level** — most other systems resolve conflict at the level of a task, or individual action. Heroic Tales resolves challenges at the level of a scene, collecting the actions of multiple characters into a single roll.
 * **Dice pool** — players roll a set of six-sided dice (d6) in order to determine the results of their choices.
+
+## Changelog
+
+* 1.0.2 -- *very* minor formatting changes to clean the document up and reduce file size.
+* 1.0.1 -- minor terminology changes in the Spanish translation to improve clarity.
+* 1.0.0 -- initial release.
