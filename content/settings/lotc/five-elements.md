@@ -1,7 +1,7 @@
 ---
 title: "Five Elements"
 date: 2020-12-26T13:42:49-05:00
-draft: true
+draft: false
 tags: []
 featured_image: ""
 summary: "According to traditional Tsurukokan philosophy, the entirety of nature is composed of five elements. The elements are collectively known as gogyō: wood (ki 木), fire (hi 火), earth (tsuchi 土), metal (kane 金), and water (mizu 水)."

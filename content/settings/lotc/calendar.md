@@ -1,7 +1,7 @@
 ---
 title: "Calendar"
 date: 2020-12-26T13:15:57-05:00
-draft: true
+draft: false
 tags: []
 summary: "Tsurukokans live their lives by the calendar. The calendar tells them  when it is time to plant rice, time to harvest, time to prepare for winter, time to worship their ancestors, and time to celebrate."
 chapter: "Culture"
