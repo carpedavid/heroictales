@@ -43,8 +43,54 @@
     </div>
 
     <aside class="w-30-l">
+      {{ $version := .Params.version }}
+      {{ if or (isset .Params "pdf_link") (isset .Params "md_link") (isset .Params "cs_link") }}
+        <div class="bg-light-gray pa3 mb4 nested-copy-line-height nested-links">
+          <h2>Downloads</h2>
+          <ul class="fa-ul">
+            {{ with .Params.pdf_link }}
+              <li>
+                <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-pdf"></i></span>PDF (English)</a>
+              </li>
+            {{ end }}
+            {{ with .Params.md_link }}
+              <li>
+                <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fab fa-markdown"></i></span>Markdown (English)</a>
+              </li>
+            {{ end }}
+            {{ with .Params.cs_link }}
+            <li>
+              <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-alt"></i></span>Character Sheet (English)</a>
+            </li>
+            {{ end }}
+          </ul>
+          </div>
+      {{ end }}
+      {{ if or (isset .Params "pdf_link_es") (isset .Params "md_link_es") (isset .Params "cs_link_es")}}
+      <div class="bg-light-gray pa3 mb4 nested-copy-line-height nested-links">
+        <h2>Translations</h2>
+        <ul class="fa-ul">
+            {{ with .Params.pdf_link_es }}
+            <li>
+              <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-pdf"></i></span>PDF (Español)</a>
+            </li>
+          {{ end }}
+          {{ with .Params.md_link_es }}
+          <li>
+            <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fab fa-markdown"></i></span>Markdown (Español)</a>
+          </li>
+          {{ end }}
+          {{ with .Params.cs_link_es }}
+          <li>
+            <a href="{{ . }}" class="f4 db link dim"><span class="fa-li"><i class="fas fa-file-alt"></i></span>Character Sheet (Español)</a>
+          </li>
+          {{ end }}
+          </ul>
+        </div>
+      {{ end }}
+
       <div class="ph3 nested-copy-line-height nested-links">
-        <h2 class="">Share</h2>
+        <h2 class="mt0">Share</h2>
         {{ partial "social-share.html" . }}
       </div>
     </aside>
