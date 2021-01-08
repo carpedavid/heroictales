@@ -1,7 +1,7 @@
 ---
 title: "Run For Your Life"
 date: 2020-11-29T20:42:32-05:00
-draft: false
+draft: true
 tags: []
 summary: "Terrifying Tales of survival in a zombie-infested world."
 author: "David Garrett"

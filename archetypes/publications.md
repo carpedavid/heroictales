@@ -5,7 +5,7 @@ draft: true
 tags: []
 summary: ""
 author: "David Garrett"
-genres: [Fantasy, Horror, Scifi, Superhero, Thriller, Western]
+genres: [Fantasy, Horror, Mystery, Scifi, Superhero, Thriller, Western]
 format: "Adventure, Campaign Setting, Storybook"
 audiences: [Kids, Teens, Adults]
 version: "Concept"
