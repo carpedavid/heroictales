@@ -2,5 +2,6 @@
   "htmlvalidator.enabled" : false,
   "workspace.art_style" : 1,
   "workspace.color" : 8,
+  "workspace.name" : "Heroic Tales",
   "workspace.preview_type" : "custom"
 }
