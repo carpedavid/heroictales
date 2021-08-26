@@ -1,7 +1,0 @@
-{{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-    {{ partial "google/analytics.html" . }}
-{{ end }}
-
-{{ partial "adobe/fonts.html" . }}
-{{ partial "fontawesome/awesome.html" . }}
-{{ partial "algolia/search.html" . }}
