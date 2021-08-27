@@ -1,17 +1,18 @@
 ---
 title: "Core Rules"
+thumbnail: "logo_web@2x.png"
 date: 2020-10-23T15:46:08-04:00
 draft: false
 tags: []
-summary: "Core rules for the genre-neutral role playing game of heroic problem solving."
+lead: "Core rules for the genre-neutral role playing game of heroic problem solving."
 author: "David Garrett"
 genres: []
 format: "Core Rules"
 audiences: [Kids, Teens, Adults]
-version: "1.1.0"
+version: "1.2.0"
 html_link: "/core-rules/"
-pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.1.0.pdf"
-md_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.1.0.md"
+pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.2.0.pdf"
+md_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.2.0.md"
 cs_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Character%20Sheet.pdf"
 pdf_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1%20ES.pdf"
 md_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1%20ES.md"

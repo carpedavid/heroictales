@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.heroictalesrpg.com/"
 title = "Heroic Tales"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -16,9 +16,10 @@ googleAnalytics = "G-R86CCS3ZF1" # Enable Google Analytics by entering your trac
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
-  authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["blog"]
+  customCSS = ["css/custom.css"]
 
 [Params.style.vars]
   highlightColor = "#357edd" # Override highlight color
@@ -47,7 +48,11 @@ googleAnalytics = "G-R86CCS3ZF1" # Enable Google Analytics by entering your trac
   twitter = "heroictalesRPG"
   email = "hello@heroictalesrpg.com"
   instagram = "heroictalesrpg"
-  reddit = "heroic_tales"
+
+[[Params.widgets.social.custom]]
+  title = "Reddit"
+  url = "https://www.reddit.com/r/heroic_tales/"
+  icon = "reddit-brands.svg" # Optional. Path relative to "layouts/partials"
 
 [taxonomies]
   tag = "tags"
