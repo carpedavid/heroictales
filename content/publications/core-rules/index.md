@@ -1,26 +1,21 @@
 ---
 title: "Core Rules"
-thumbnail: "logo_web@2x.png"
-date: 2020-10-23T15:46:08-04:00
+date: 2021-08-27
 draft: false
 tags: []
 lead: "Core rules for the genre-neutral role playing game of heroic problem solving."
 author: "David Garrett"
 genres: []
-format: "Core Rules"
+categories: [Rulebooks]
 audiences: [Kids, Teens, Adults]
-version: "1.2.0"
-html_link: "/core-rules/"
-pdf_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.2.0.pdf"
-md_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.2.0.md"
-cs_link: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Character%20Sheet.pdf"
-pdf_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1%20ES.pdf"
-md_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1%20ES.md"
-cs_link_es: "https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Character%20Sheet%20ES.pdf"
+version: "1.1.0"
+summary: "Heroic Tales is a genre-neutral role playing game of heroic problem solving. It utilizes a rules-lite, narrative, team-based, scene-level, dice pool challenge resolution system."
 
 resources:
-  - name: pub_logo
-    src: logo_web@2x.png
+  - name: thumbnail
+    src: logo_web@512.png
+  - name: product_image
+    src: logo_web@1024.png
 ---
 
 Heroic Tales is a genre-neutral role playing game of heroic problem solving. It utilizes a rules-lite, narrative, team-based, scene-level, dice pool challenge resolution system.
@@ -30,6 +25,17 @@ Heroic Tales is a genre-neutral role playing game of heroic problem solving. It 
 - **Team-based** — other systems are primarily geared toward individual character actions. Heroic Tales is explicitly team-based, and the group will succeed or fail as a team.
 - **Scene-level** — most other systems resolve conflict at the level of a task, or individual action. Heroic Tales resolves challenges at the level of a scene, collecting the actions of multiple characters into a single roll.
 - **Dice pool** — players roll a set of six-sided dice (d6) in order to determine the results of their choices.
+
+## Resources
+- [Read Online](/core-rules/)
+- [PDF](https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.1.0.pdf)
+- [Markdown](https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.1.0.md)
+- [Character Sheet](https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Character%20Sheet.pdf)
+
+## Español
+- [PDF](https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1%20ES.pdf)
+- [Markdown](https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Core%20Rules%201.0.1%20ES.md)
+- [Character Sheet](https://heroictales.s3.us-east-1.amazonaws.com/core-rules/Heroic%20Tales%20Character%20Sheet%20ES.pdf)
 
 ## Changelog
 

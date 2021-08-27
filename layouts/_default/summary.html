@@ -1,8 +1,8 @@
 <article class="list__item post">
-	{{- $pubLogo := .Resources.GetMatch "pub_logo" -}}
-	{{- if $pubLogo -}}
+	{{- $thumbnail := .Resources.GetMatch "thumbnail" -}}
+	{{- if $thumbnail -}}
 	<figure class="post__thumbnail">
-		<img src="{{ $pubLogo.RelPermalink }}" alt="{{ .Title }}">
+		<a href="{{ .RelPermalink }}" rel="bookmark"><img src="{{ $thumbnail.RelPermalink }}" alt="{{ .Title }}"></a>
 	</figure>
 	{{- end -}}
 	<header class="list__header">

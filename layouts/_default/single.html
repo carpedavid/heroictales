@@ -10,10 +10,10 @@
 			<div class="post__meta meta">{{ . }}</div>
 			{{- end }}
 		</header>
-		{{- $pubLogo := .Resources.GetMatch "pub_logo" -}}
-		{{- if $pubLogo -}}
+		{{- $product_image := .Resources.GetMatch "product_image" -}}
+		{{- if $product_image -}}
 		<figure class="post__thumbnail">
-			<img src="{{ $pubLogo.RelPermalink }}" alt="{{ .Title }}">
+			<img src="{{ $product_image.RelPermalink }}" alt="{{ .Title }}">
 		</figure>
 		{{- end -}}
 		{{- partial "post_toc.html" . -}}
