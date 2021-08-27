@@ -2,9 +2,202 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heroic Tales</title>
-    <link>https://heroictalesrpg.com/</link>
+    <link>https://www.heroictalesrpg.com/</link>
     <description>Recent content on Heroic Tales</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://heroictalesrpg.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2020 20:35:01 -0400</lastBuildDate><atom:link href="https://www.heroictalesrpg.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://www.heroictalesrpg.com/core-rules/introduction/</link>
+      <pubDate>Tue, 01 Dec 2020 06:11:32 -0500</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/core-rules/introduction/</guid>
+      <description>I didn’t set out to write a new system. I have three kids under five, and I wanted to spend some quality time with them playing table-top RPGs.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://www.heroictalesrpg.com/core-rules/welcome/</link>
+      <pubDate>Wed, 28 Oct 2020 20:18:31 -0400</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/core-rules/welcome/</guid>
+      <description>Heroic Tales is a genre-neutral role playing game of heroic problem solving. It utilizes a rules-lite, narrative, team-based, scene-level, dice pool challenge resolution system.</description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://www.heroictalesrpg.com/core-rules/player/getting-started/</link>
+      <pubDate>Fri, 23 Oct 2020 20:31:42 -0400</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/core-rules/player/getting-started/</guid>
+      <description>Heroic Tales is designed for a group of one to six players plus one GM. As a group, you&amp;rsquo;ll first create your team, and then your characters.</description>
+    </item>
+    
+    <item>
+      <title>Challenges</title>
+      <link>https://www.heroictalesrpg.com/core-rules/player/challenges/</link>
+      <pubDate>Fri, 23 Oct 2020 20:36:30 -0400</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/core-rules/player/challenges/</guid>
+      <description>&lt;em&gt;Challenges&lt;/em&gt; are the core of the Heroic Tales experience; they’re what turn a session from improvisational theater into a game. A challenge is any obstacle that the team has to face collectively. Capturing the dastardly villain, stopping the runaway train, investigating the crime scene, or inventing the antidote to a mystical poison are all examples of challenges.</description>
+    </item>
+    
+    <item>
+      <title>Results</title>
+      <link>https://www.heroictalesrpg.com/core-rules/player/results/</link>
+      <pubDate>Fri, 23 Oct 2020 20:39:24 -0400</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/core-rules/player/results/</guid>
+      <description>Based upon the results of the team’s roll, the GM advances the scene. Each net success the team generates reduces the &lt;em&gt;inertia&lt;/em&gt; of the &lt;em&gt;challenge&lt;/em&gt; by one, but each player that ends up with more failures than successes costs the team one point of &lt;em&gt;momentum&lt;/em&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Advancement</title>
+      <link>https://www.heroictalesrpg.com/core-rules/player/advancement/</link>
+      <pubDate>Fri, 23 Oct 2020 20:43:11 -0400</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/core-rules/player/advancement/</guid>
+      <description>Over time, a team will become better at what they do. Individual characters will learn and grow, but the synergy between team members will also improve.</description>
+    </item>
+    
+    <item>
+      <title>The Gentle Art of GMing</title>
+      <link>https://www.heroictalesrpg.com/core-rules/gm/art-of-gming/</link>
+      <pubDate>Fri, 23 Oct 2020 20:43:11 -0400</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/core-rules/gm/art-of-gming/</guid>
+      <description>So you’ve decided to take on the role of Game Master. It can be a challenging role filled with prep work and world building and book keeping, but it is also an extremely rewarding role filled with nearly limitless potential for creativity.</description>
+    </item>
+    
+    <item>
+      <title>Crafting Challenges</title>
+      <link>https://www.heroictalesrpg.com/core-rules/gm/crafting-challenges/</link>
+      <pubDate>Wed, 28 Oct 2020 20:05:49 -0400</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/core-rules/gm/crafting-challenges/</guid>
+      <description>As a GM, you get the opportunity to craft the challenges that the players will attempt to overcome. A challenge can be anything from fighting a colossal, tentacled, city-devouring monster to developing the antidote for a magical zombie-creating poison.</description>
+    </item>
+    
+    <item>
+      <title>Powered by Heroic Tales</title>
+      <link>https://www.heroictalesrpg.com/core-rules/gm/powered-by/</link>
+      <pubDate>Wed, 28 Oct 2020 20:07:03 -0400</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/core-rules/gm/powered-by/</guid>
+      <description>Heroic Tales is designed to be reused, remixed, and republished. It is published under the Creative Commons Attribution 4.0 license, which gives you the right to use as many or as few of the concepts and words as you’d like in your own games, settings, adventures, and other content, as long as you make a clear statement that your material is based on this material.</description>
+    </item>
+    
+    <item>
+      <title>Credits &amp; Legal</title>
+      <link>https://www.heroictalesrpg.com/core-rules/credits/</link>
+      <pubDate>Wed, 28 Oct 2020 20:39:28 -0400</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/core-rules/credits/</guid>
+      <description>Heroic Tales is designed and authored by David Garrett with the support of innumerable others.</description>
+    </item>
+    
+    <item>
+      <title>Core Rules</title>
+      <link>https://www.heroictalesrpg.com/publications/core-rules/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/publications/core-rules/</guid>
+      <description>Heroic Tales is a genre-neutral role playing game of heroic problem solving. It utilizes a rules-lite, narrative, team-based, scene-level, dice pool challenge resolution system.</description>
+    </item>
+    
+    <item>
+      <title>Special Memorial Day Weekend Update</title>
+      <link>https://www.heroictalesrpg.com/blog/release-1.1.0/</link>
+      <pubDate>Fri, 28 May 2021 22:57:17 -0400</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/blog/release-1.1.0/</guid>
+      <description>Version 1.1.0 marks the first revision to the rules since the first release. It adds a concrete advancement system and clarifies language around the results of a roll.</description>
+    </item>
+    
+    <item>
+      <title>Core Rules Version 1.0.1</title>
+      <link>https://www.heroictalesrpg.com/blog/version-1.0.1/</link>
+      <pubDate>Sat, 12 Dec 2020 14:16:12 -0500</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/blog/version-1.0.1/</guid>
+      <description>The English and Spanish versions of the Core Rules have been updated to 1.0.1.</description>
+    </item>
+    
+    <item>
+      <title>Core Rules en Español</title>
+      <link>https://www.heroictalesrpg.com/blog/espanol/</link>
+      <pubDate>Tue, 08 Dec 2020 14:56:51 -0500</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/blog/espanol/</guid>
+      <description>Thanks to a wonderful community member, the Heroic Tales Core Rules are now available en Español!</description>
+    </item>
+    
+    <item>
+      <title>Heroic Tales v 1.0.0! (Super Snow Day Early Release)</title>
+      <link>https://www.heroictalesrpg.com/blog/release-1.0.0/</link>
+      <pubDate>Tue, 01 Dec 2020 17:53:57 -0500</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/blog/release-1.0.0/</guid>
+      <description>After rounds of play testing, feedback, and revision, I’m happy to report that Heroic Tales, the genre-neutral, rules-light, role-playing game is now ready for official release.</description>
+    </item>
+    
+    <item>
+      <title>Community Updates</title>
+      <link>https://www.heroictalesrpg.com/blog/community/</link>
+      <pubDate>Thu, 12 Nov 2020 10:06:02 -0500</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/blog/community/</guid>
+      <description>I’d love to see the audience using Heroic Tales grow, as I think this can be a vibrant, creative, and supportive community.</description>
+    </item>
+    
+    <item>
+      <title>Powered By Heroic Tales</title>
+      <link>https://www.heroictalesrpg.com/blog/poweredby/</link>
+      <pubDate>Tue, 10 Nov 2020 20:39:43 -0500</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/blog/poweredby/</guid>
+      <description>Heroic Tales is designed to be reused, remixed, and republished. It is published under the Creative Commons Attribution 4.0 license, which gives you the right to use as many or as few of the concepts and words as you’d like in your own games, settings, adventures, and other content, as long as you make a clear statement that your material is based on this material.</description>
+    </item>
+    
+    <item>
+      <title>Playtest 4.2.0</title>
+      <link>https://www.heroictalesrpg.com/blog/playtest-4.2.0/</link>
+      <pubDate>Sat, 07 Nov 2020 13:52:23 -0500</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/blog/playtest-4.2.0/</guid>
+      <description>Playtest version 4.2.0 is now available.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://www.heroictalesrpg.com/blog/welcome/</link>
+      <pubDate>Tue, 03 Nov 2020 12:27:25 -0500</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/blog/welcome/</guid>
+      <description>Welcome to the Heroic Tales website! I didn&amp;rsquo;t set out to write a new system, but I&amp;rsquo;m pretty happy with how it turned out.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.heroictalesrpg.com/about/</link>
+      <pubDate>Tue, 03 Nov 2020 11:59:01 -0500</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/about/</guid>
+      <description>I didn’t set out to write a new system. I have three kids under five, and I wanted to spend some quality time with them playing table-top RPGs. I tried D&amp;amp;D 5E, which I play regularly with my friends, but even a streamlined version of that system was a bit too weighty for my needs.
+As I was looking around for other systems to try out with the kids, though, I became inspired.</description>
+    </item>
+    
+    <item>
+      <title>Copyright and Legal</title>
+      <link>https://www.heroictalesrpg.com/legal/</link>
+      <pubDate>Tue, 03 Nov 2020 10:49:09 -0500</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/legal/</guid>
+      <description>The Heroic Tales Core Rules and many of its supporting publications are open rule-sets intended to be modified and reused.
+Unless otherwise specified, all website text is copyright 2020 by David Garrett, and is released under the Creative Commons Attribution 4.0 International License.
+Where applicable, images and illustrations are used with permission of the artist and are attributed back to the source. All other images are provided by Pexels or Unsplash, or are commissioned works whose digital rights are owned by David Garrett.</description>
+    </item>
+    
   </channel>
 </rss>

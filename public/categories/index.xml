@@ -2,9 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Heroic Tales</title>
-    <link>https://heroictalesrpg.com/categories/</link>
+    <link>https://www.heroictalesrpg.com/categories/</link>
     <description>Recent content in Categories on Heroic Tales</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://heroictalesrpg.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.heroictalesrpg.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rulebooks</title>
+      <link>https://www.heroictalesrpg.com/categories/rulebooks/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/categories/rulebooks/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

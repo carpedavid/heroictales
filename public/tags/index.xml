@@ -2,9 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Heroic Tales</title>
-    <link>https://heroictalesrpg.com/tags/</link>
+    <link>https://www.heroictalesrpg.com/tags/</link>
     <description>Recent content in Tags on Heroic Tales</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://heroictalesrpg.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2020 20:07:03 -0400</lastBuildDate><atom:link href="https://www.heroictalesrpg.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gm&#39;s companion</title>
+      <link>https://www.heroictalesrpg.com/tags/gms-companion/</link>
+      <pubDate>Wed, 28 Oct 2020 20:07:03 -0400</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/tags/gms-companion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>player&#39;s guide</title>
+      <link>https://www.heroictalesrpg.com/tags/players-guide/</link>
+      <pubDate>Fri, 23 Oct 2020 20:43:11 -0400</pubDate>
+      
+      <guid>https://www.heroictalesrpg.com/tags/players-guide/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
