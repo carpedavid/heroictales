@@ -15,7 +15,7 @@ Playtesting, additional game design, and eternally supportive friendship by Matt
 
 ## Resources
 
-- [Read Online](/core-rules/)
+- [Read Online](/core-rules/2.0.0/)
 - [PDF](https://heroictales.s3.us-east-1.amazonaws.com/core-rules/2.0.0/Heroic_Tales_Core_Rules.pdf)
 - [Markdown](https://heroictales.s3.us-east-1.amazonaws.com/core-rules/2.0.0/Heroic_Tales_Core_Rules.md)
 - [Character Sheet](https://heroictales.s3.us-east-1.amazonaws.com/core-rules/2.0.0/Heroic_Tales_Character_Sheet.pdf)
