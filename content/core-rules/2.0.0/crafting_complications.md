@@ -1,6 +1,6 @@
 ---
 title: "Crafting complications"
-date: 2021-09-07T21:47:34-04:00
+date: 2021-09-22T21:47:34-04:00
 draft: false
 description: ""
 summary: "As a GM, you get the opportunity to craft the *challenges* that the players will attempt to overcome. A challenge can be anything from fighting a colossal, tentacled, city-devouring monster to developing the antidote for a magical zombie-creating poison."
@@ -84,6 +84,14 @@ Team Members	Easy	Normal	Hard
 5				10		20		30
 6				12		24		36
 ```
+
+## Splitting the party
+
+When confronting a challenge, each roll of the dice represents the collective and coordinated effort of every member of the team. Whether working collaboratively in real-time or individually executing upon a predetermined plan, the team moves in the same direction.
+
+If one or more members of the team decide to work independently, though, then the dice rolls are affected: first, determine whether the two groups are tackling different challenges. If so, then each group is treated as its own mini-team for purposes of resolving their own challenge. In this case, determine the inertia of each challenge separately.
+
+Otherwise, determine the effects of tackling the challenge without the team coordinating their efforts. If they are largely benign, then the players roll their dice normally — sometimes everyone doing their best is enough. If the effects of working separately have negative consequences, though, then everyone, regardless of whose idea it was to split the team, suffers disadvantage on their roll.
 
 ## Adventures and Campaigns
 
