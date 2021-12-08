@@ -11,11 +11,11 @@ Heroic Tales is designed for a group of one to six players plus one GM. More tha
 
 One person in the group needs to assume the role of Game Master (GM). You, lucky person, will provide a loose plot (since no plot survives contact with the players unscathed), set the scene, and narrate the outcomes of dice rolls for the rest of the people in your group. You are responsible for playing all of the characters, creatures, and intelligent super-storms that the player characters will encounter during the story.
 
-Everyone else assumes the role of a player and will take on the persona of a character for the duration of the game. As a team, the players tackle *challenges*, the meat of the Heroic Tales system. Challenges can be anything from combat to exploration to social interaction; they represent the obstacles that the team is trying to overcome.
+Everyone else assumes the role of a player and will take on the persona of a character for the duration of the game. As a team, the players tackle `challenges`, the meat of the Heroic Tales system. Challenges can be anything from combat to exploration to social interaction; they represent the obstacles that the team is trying to overcome.
 
-A series of challenges linked by a plot is known as an *adventure*. An adventure is like a short story or chapter of a novel. It is largely self-contained, but often ties into a longer, overarching narrative.
+A series of challenges linked by a plot is known as an `adventure`. An adventure is like a short story or chapter of a novel. It is largely self-contained, but often ties into a longer, overarching narrative.
 
-When a set of characters embarks on a series of adventures together, it is known as a *campaign*. Over the course of a campaign, your characters will experience highs and lows; succeed heroically and fail dramatically; and grow both individually and as a team.
+When a set of characters embarks on a series of adventures together, it is known as a `campaign`. Over the course of a campaign, your characters will experience highs and lows; succeed heroically and fail dramatically; and grow both individually and as a team.
 
 ## Session zero
 
@@ -31,6 +31,6 @@ Once the campaign concept has been determined, it is time to create your team. O
 
 - **Origin story** — why is your team a team? How did you all come to meet and how did you figure out how to effectively work together?
 
-- **Level** — every team starts at *level* one. This will increase over time as your team becomes more effective at working together. Your level will increase over time as you become more skilled and experienced, as explained in the section on Advancement. You can track your progress on the *advancement* track of your character sheet.
+- **Level** — every team starts at `level` one. This will increase over time as your team becomes more effective at working together. Your level will increase over time as you become more skilled and experienced, as explained in the section on Advancement. You can track your progress on the `advancement` track of your character sheet.
 
-- **Momentum** — this numeric value represents your team’s ability to overcome adversity. You will begin each challenge with two points of *momentum* per team member. Depending on your dice rolls, your momentum may decrease during play, but it will never increase above this value.
+- **Momentum** — this numeric value represents your team’s ability to overcome adversity. You will begin each challenge with two points of `momentum` per team member. Depending on your dice rolls, your momentum may decrease during play, but it will never increase above this value.

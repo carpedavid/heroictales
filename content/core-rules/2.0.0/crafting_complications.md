@@ -7,7 +7,7 @@ summary: "As a GM, you get the opportunity to craft the *challenges* that the pl
 weight: 7
 ---
 
-As a GM, you get the opportunity to craft the *challenges* that the players will attempt to overcome. A challenge can be anything from fighting a colossal, tentacled, city-devouring monster to developing the antidote for a magical zombie-creating poison. It could involve persuading the Grand Duchess to sponsor your voyage to the Islands East of Forever or it might involve helping an old, friendly vampire rescue his beloved spider-cat, Whiskers, from the Haunted Mines of Terror and Dread.
+As a GM, you get the opportunity to craft the `challenges` that the players will attempt to overcome. A challenge can be anything from fighting a colossal, tentacled, city-devouring monster to developing the antidote for a magical zombie-creating poison. It could involve persuading the Grand Duchess to sponsor your voyage to the Islands East of Forever or it might involve helping an old, friendly vampire rescue his beloved spider-cat, Whiskers, from the Haunted Mines of Terror and Dread.
 
 As a result, creating an engaging challenge is more of an art than a science. It’s important to understand the expectations that each of the players brings to the group and to create a chance for each of them to contribute. Try to minimize creating challenges that highlight just one character’s abilities — they can be interesting on occasion, but can become tedious if overused.
 
@@ -65,7 +65,7 @@ Mechanically, the team has taken a penalty for the bad roll by losing momentum. 
 
 ## Success and Failure
 
-The players will eventually reduce the *inertia* of the challenge to zero or they will lose all of their *momentum*. What happens in either scenario?
+The players will eventually reduce the `inertia` of the challenge to zero or they will lose all of their `momentum`. What happens in either scenario?
 
 Success should mean that the characters achieve their objective in one form or another. If they are battling a great dragon, the dragon might surrender, it might die, or it might offer to trade its treasure horde for its life. If they are exploring the endlessly deep Höhle der Winde, success means making it through to the next waypoint without getting lost.
 
@@ -75,15 +75,14 @@ Failure, on the other hand, can mean many things but it should always propel the
 
 The inertia of a challenge can range from two to thirty-six. The appropriate value for a particular challenge depends the number of characters participating in the challenge and how hard or easy you want the challenge to be.
 
-```plaintext
-Team Members	Easy	Normal	Hard
-1				2		4		6
-2				4		8		12
-3				6		12		18
-4				8		16		24
-5				10		20		30
-6				12		24		36
-```
+| **Team Members** | **Easy** | **Normal** | **Hard** |
+| ---------------- | -------- | ---------- | -------- |
+| 1                | 2        | 4          | 6        |
+| 2                | 4        | 8          | 12       |
+| 3                | 6        | 12         | 18       |
+| 4                | 8        | 16         | 24       |
+| 5                | 10       | 20         | 30       |
+| 6                | 12       | 24         | 36       |
 
 ## Splitting the party
 
@@ -97,6 +96,6 @@ Otherwise, determine the effects of tackling the challenge without the team coor
 
 Just as a novel is constructed from chapters, which themselves are constructed from a series of scenes, you can link challenges together to form a long, cohesive narrative.
 
-A series of challenges linked by a plot is known as an *adventure*. An adventure is much like a chapter of a novel that is constructed from multiple scenes. Adventures vary in length, but at the short end they might comprise three to five challenges and at the long end of the spectrum ten to twelve. If using the milestone advancement option, the end of an adventure is often a good time to increase the team’s level.
+A series of challenges linked by a plot is known as an `adventure`. An adventure is much like a chapter of a novel that is constructed from multiple scenes. Adventures vary in length, but at the short end they might comprise three to five challenges and at the long end of the spectrum ten to twelve. If using the milestone advancement option, the end of an adventure is often a good time to increase the team’s level.
 
-A *campaign* is a set of adventures linked by a common plot (or at least a common set of characters). Over the course of a campaign, the team grows, learns, and changes. A campaign often has an overarching goal that individual adventures may directly address. For example, in the Journey to the Fire Crane campaign, a team of young warriors took their clan’s offering  to the far reaches of the empire. Along the way, they fought rival clans, brokered peace between warring factions of arachnids, and took a young, abandoned girl under their wing. Ultimately, the team delivered their offering to the guardian spirit known as the Fire Crane and secured good fortune for their clan.
+A `campaign` is a set of adventures linked by a common plot (or at least a common set of characters). Over the course of a campaign, the team grows, learns, and changes. A campaign often has an overarching goal that individual adventures may directly address. For example, in the Journey to the Fire Crane campaign, a team of young warriors took their clan’s offering  to the far reaches of the empire. Along the way, they fought rival clans, brokered peace between warring factions of arachnids, and took a young, abandoned girl under their wing. Ultimately, the team delivered their offering to the guardian spirit known as the Fire Crane and secured good fortune for their clan.
