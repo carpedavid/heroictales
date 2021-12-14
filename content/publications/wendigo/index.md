@@ -44,6 +44,8 @@ To play Wendigo, you’ll need the following in either analogue or digital form:
 
 {{< itch src="https://itch.io/embed/1313189" url="https://carpedavid.itch.io/wendigo" title="Wendigo by David Garrett" >}}
 
+- [DriveThruRPG](https://www.drivethrurpg.com/product/380419/Wendigo)
+
 ## Other resources
 
 - [Wendigo game preview (PDF)](https://heroictales.s3.amazonaws.com/wendigo/wendigo_preview.pdf)
