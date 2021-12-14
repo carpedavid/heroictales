@@ -16,6 +16,9 @@ resources:
     src: web_logo@512.png
   - name: product_image
     src: web_logo@1024.png
+
+aliases:
+    - /wendigo/
 ---
 
 Wendigo is a game about the peace of solitude and the terror of having that peace broken. To play it, you will adopt a persona called a character through whose eyes you will experience this story vicariously.
@@ -43,6 +46,7 @@ To play Wendigo, you’ll need the following in either analogue or digital form:
 
 ## Other resources
 
+- [Wendigo game preview (PDF)](https://heroictales.s3.amazonaws.com/wendigo/wendigo_preview.pdf)
 - [Wendigo character sheet (PDF)](https://heroictales.s3.amazonaws.com/wendigo/wendigo_character_sheet.pdf)
 
 Wendigo is copyright © 2021 by David Garrett. Licensed for use under the Creative Commons Attribution 4.0 license.
