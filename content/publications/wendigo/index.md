@@ -38,19 +38,21 @@ To play Wendigo, you’ll need the following in either analogue or digital form:
 - The 56-page, fully-hyperlinked, A5 PDF, which features a minimal (but snazzy), single-column, print-friendly layout.
 - A separate A5 PDF of the Wendigo character sheet.
 
-*For 1 player. Recommended for ages 13 and up.*
+## Game preview
 
-## Where to buy
+- [This preview] contains the first two chapters of the game, including the complete mechanics and character creation process.
+
+## PDF copy
 
 {{< itch src="https://itch.io/embed/1313189" url="https://carpedavid.itch.io/wendigo" title="Wendigo by David Garrett" >}}
 
 - [DriveThruRPG](https://www.drivethrurpg.com/product/380419/Wendigo) - PDF
-- [Lulu](https://www.lulu.com/en/us/shop/david-garrett/wendigo/paperback/product-evr46g.html) - A5 perfect-bound paperback
 
-## Other resources
+## Physical copy
 
-- [Wendigo game preview (PDF)](https://heroictales.s3.amazonaws.com/wendigo/wendigo_preview.pdf)
-- [Wendigo character sheet (PDF)](https://heroictales.s3.amazonaws.com/wendigo/wendigo_character_sheet.pdf)
+- If you prefer your games in physical form, you can purchase a very lovely A5 perfect-bound paperback from [Lulu](https://www.lulu.com/en/us/shop/david-garrett/wendigo/paperback/product-evr46g.html).
+
+*For 1 player. Recommended for ages 13 and up.*
 
 Wendigo is copyright © 2021 by David Garrett. Licensed for use under the Creative Commons Attribution 4.0 license.
 
