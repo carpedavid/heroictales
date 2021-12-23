@@ -40,7 +40,7 @@ To play Wendigo, you’ll need the following in either analogue or digital form:
 
 ## Game preview
 
-- [This preview] contains the first two chapters of the game, including the complete mechanics and character creation process.
+- [This preview](https://heroictales.s3.amazonaws.com/wendigo/wendigo_preview.pdf) contains the first two chapters of the game, including the complete mechanics and character creation process.
 
 ## PDF copy
 
