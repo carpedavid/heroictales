@@ -45,7 +45,7 @@ To play Wendigo, you’ll need the following in either analogue or digital form:
 {{< itch src="https://itch.io/embed/1313189" url="https://carpedavid.itch.io/wendigo" title="Wendigo by David Garrett" >}}
 
 - [DriveThruRPG](https://www.drivethrurpg.com/product/380419/Wendigo) - PDF
-- [Lulu](https://www.lulu.com/en/us/shop/david-garrett/wendigo/paperback/product-evr46g.html) - A5 paperback
+- [Lulu](https://www.lulu.com/en/us/shop/david-garrett/wendigo/paperback/product-evr46g.html) - A5 perfect-bound paperback
 
 ## Other resources
 
