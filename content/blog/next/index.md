@@ -21,4 +21,4 @@ Here are pitches for my top three possible next games:
 2. **My Life as an Eldritch Horror** — you are an Eldritch horror, accidentally summoned by a bunch of teenagers. You’re now trapped in the body of one of the teenagers and have to open a gate to get back home before the window of opportunity closes.
 3. **The Modern Witch’s Practical Guide to Magical Gardening** — You are a witch. Not the cackling, green-skinned, pointy-hat-wearing kind, nor the demon-consorting, curse-bestowing, unable-to-float-in-water kind. Rather, you are a suburban witch — the kind that tends to the sick, the beguiled, and the hexed.
 
-If you have opinions, tweet, email, or DM me on reddit.
+If you have opinions, [tweet](https://twitter.com/carpedavid), [email](mailto:carpedavid@gmail.com), or find me on [reddit](https://reddit.com/u/carpedavid).
