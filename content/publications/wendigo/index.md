@@ -42,15 +42,20 @@ To play Wendigo, you’ll need the following in either analogue or digital form:
 
 - [This preview](https://heroictales.s3.amazonaws.com/wendigo/wendigo_preview.pdf) contains the first two chapters of the game, including the complete mechanics and character creation process.
 
-## PDF copy
+## PDF
+
+If you prefer your games in digital form, you can buy the A5-formatted PDF from:
 
 {{< itch src="https://itch.io/embed/1313189" url="https://carpedavid.itch.io/wendigo" title="Wendigo by David Garrett" >}}
 
 - [DriveThruRPG](https://www.drivethrurpg.com/product/380419/Wendigo) - PDF
 
-## Physical copy
+## Print
 
-- If you prefer your games in physical form, you can purchase a very lovely A5 perfect-bound paperback from [Lulu](https://www.lulu.com/en/us/shop/david-garrett/wendigo/paperback/product-evr46g.html).
+If you prefer your games in physical form, you can purchase copies from:
+
+- [Heroic Tales Shop](https://shop.heroictalesrpg.com/product/wendigo) - A5 full-color, saddle-stiched softcover printed by Mixam.
+- [Lulu](https://www.lulu.com/en/us/shop/david-garrett/wendigo/paperback/product-evr46g.html) - A5 full-color, perfect-bound, print-on-demand softcover.
 
 *For 1 player. Recommended for ages 13 and up.*
 
