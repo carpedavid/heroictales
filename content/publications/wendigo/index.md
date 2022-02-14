@@ -38,19 +38,20 @@ To play Wendigo, you’ll need the following in either analogue or digital form:
 - The 56-page, fully-hyperlinked, A5 PDF, which features a minimal (but snazzy), single-column, print-friendly layout.
 - A separate A5 PDF of the Wendigo character sheet.
 
-## Game preview
+## Preview Wendigo
 
 - [This preview](https://heroictales.s3.amazonaws.com/wendigo/wendigo_preview.pdf) contains the first two chapters of the game, including the complete mechanics and character creation process.
+- Download [the character sheet](https://heroictales.s3.amazonaws.com/wendigo/wendigo_character_sheet.pdf).
 
-## PDF
+## Buy the PDF
 
 If you prefer your games in digital form, you can buy the A5-formatted PDF from:
 
 {{< itch src="https://itch.io/embed/1313189" url="https://carpedavid.itch.io/wendigo" title="Wendigo by David Garrett" >}}
 
-- [DriveThruRPG](https://www.drivethrurpg.com/product/380419/Wendigo) - PDF
+- [DriveThruRPG](https://www.drivethrurpg.com/product/380419/Wendigo)
 
-## Print
+## Buy in Print
 
 If you prefer your games in physical form, you can purchase copies from:
 
