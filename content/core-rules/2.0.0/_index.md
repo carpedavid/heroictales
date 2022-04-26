@@ -2,7 +2,6 @@
 title: "Core Rules"
 date: 2021-09-07T21:05:41-04:00
 draft: false
-menu: main
 ---
 
 By [David Garrett](https://aboutdave.info)

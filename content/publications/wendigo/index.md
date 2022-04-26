@@ -13,9 +13,9 @@ summary: "Wendigo is a storytelling game about the peace of solitude and the ter
 
 resources:
   - name: thumbnail
-    src: web_logo@512.png
+    src: cover.png
   - name: product_image
-    src: web_logo@1024.png
+    src: banner.png
 
 aliases:
     - /wendigo/
