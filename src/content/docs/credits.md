@@ -1,5 +1,6 @@
 ---
 title: Credits
+tableOfContents: false
 ---
 
 Version 2.1.0 • April 2022

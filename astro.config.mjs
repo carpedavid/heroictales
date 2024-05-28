@@ -3,6 +3,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://heroictalesrpg.com',
 	integrations: [
 		starlight({
 			title: 'Heroic Tales SRD',
@@ -28,11 +29,7 @@ export default defineConfig({
 						{ label: 'Setting the scene', link: '/srd/gm-advice'}
 					],
 				},
-				// {
-				// 	label: 'Game Directory',
-				// 	autogenerate: { directory: 'games' },
-				// 	collapsed: true
-				// },
+				{ label: 'Game directory', link: '/games/'},
 				{ label: 'Credits', link: '/credits/'},
 				{ label: 'Amalara Game Studio', link: 'https://amalara.com', icon: ''}
 			],
