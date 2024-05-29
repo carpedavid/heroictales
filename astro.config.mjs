@@ -31,7 +31,7 @@ export default defineConfig({
 				},
 				{ label: 'Game directory', link: '/games/'},
 				{ label: 'Credits', link: '/credits/'},
-				{ label: 'Amalara Game Studio', link: 'https://amalara.com', icon: ''}
+				{ label: 'Amalara Game Studio', link: 'https://amalara.com'}
 			],
 		}),
 	],
